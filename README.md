@@ -11,7 +11,7 @@ This session introduces attendees SAP RPT, a new SAP product that allows you to 
 
 ## Hands-On Architecture
 
-![Hands-On Architecture](assets/XP269-architecture.svg)
+![Hands-On Architecture](assets/XP267_architecture.svg)
 
 
 ## Requirements
