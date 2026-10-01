@@ -1,23 +1,16 @@
-# Containing Files
 
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
-
-2. The REUSE.toml file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the REUSE.toml in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
-
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
-
-# Session ID - Session Title
+# XP269 - Bring the power of Tabular AI foundation models to your SAP Agents
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2026 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2026 session called XP269 - Bring the power of Tabular AI foundation models to your SAP Agents.
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees SAP RPT, a new SAP product that allows you to build your own foundation models for tabular data. You will learn how to use SAP RPT to create a model and integrate it into your SAP Agent using Joule Studio. 
+
+## Hands-On Architecture
+
 
 ## Requirements
 
@@ -28,12 +21,9 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+- [Exercise 1 - Introduction to SAP RPT](exercises/ex1/)
+- [Exercise 2 - Build your Agent with Joule Studio & integrate SAP RPT](exercises/ex2/)
+
 
   
 **OR** Link to the Tutorial Navigator for example...
