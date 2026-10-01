@@ -22,7 +22,7 @@ The requirements to follow the exercises in this repository are...
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
+- [Getting Started / System access](exercises/ex0/)
 - [Exercise 1 - Introduction to SAP RPT](exercises/ex1/)
 - [Exercise 2 - Build your Agent with Joule Studio & integrate SAP RPT](exercises/ex2/)
 

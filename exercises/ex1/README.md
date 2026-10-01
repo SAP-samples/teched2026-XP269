@@ -1,4 +1,8 @@
-# Exercise 1 - Exercise 1 Description
+# Introducing to SAP-RPT-1
+
+SAP-RPT-1 (Relational Pre-trained Transformer) is SAP's first relational foundation model. Unlike large language models that operate on unstructured text, SAP-RPT-1 is table-native — built to understand and reason over structured relational business data. It supports in-context learning, meaning you can use it out of the box to extract business insights from your data with no model training or fine-tuning required.
+
+More details about SAP-RPT-1 can be found in the SAP AI Golden Path(https://architecture.learning.sap.com/docs/golden-path/ai-golden-path/build-and-deliver/predictive-tabular-ai?_highlight=rpt#how-to-get-started-with-sap-rpt-1).
 
 In this exercise, we will create...
 
