@@ -5,18 +5,35 @@
 
 This repository contains the material for the SAP TechEd 2026 session called XP269 - Bring the power of Tabular AI foundation models to your SAP Agents.
 
-## Overview
+## Session Overview
 
-This session introduces attendees SAP RPT, a new SAP product that allows you to build your own foundation models for tabular data. You will learn how to use SAP RPT to create a model and integrate it into your SAP Agent using Joule Studio. 
+Tabular AI Meets Intelligent Agents: Build Smarter with SAP RPT and TabPFN
+
+Structured data is everywhere in the enterprise — and it's one of the most underutilised assets in AI-driven workflows. This session explores how tabular foundation models, specifically SAP RPT and TabPFN, are redefining what intelligent agents can do with structured information.
+
+In this hands-on session, you will move beyond theory and directly experience how to integrate tabular AI models into the agent development lifecycle. From initial integration and iterative testing to rigorous benchmarking, you will gain practical skills to evaluate model performance and make informed design decisions for real-world use cases.
+
+Whether you are building decision-support agents, automating data-driven processes, or optimising enterprise workflows, tabular foundation models offer a powerful new layer of intelligence. Join us to discover how turning structured data into smarter, faster, and more reliable agent decisions is not just possible — it is within reach today.
 
 ## Hands-On Architecture
 
 ![Hands-On Architecture](assets/XP267_architecture.svg)
 
+## What You Will Learn
 
-## Requirements
+Tabular AI in Action: Building Smarter Agents with SAP RPT, TabPFN & Joule Studio
 
-The requirements to follow the exercises in this repository are...
+In this hands-on session, you will learn how to harness the power of tabular foundation models — SAP RPT and TabPFN — to build intelligent agents that make smarter decisions from structured enterprise data.
+
+Working directly inside Joule Studio's ProCode flow, you will go through the full agent development lifecycle: integrating tabular AI models, writing and testing agent logic in code, and benchmarking model performance against real-world scenarios. This is not a demo you watch — it is a workflow you execute.
+
+By the end of this session, you will know how to:
+
+Set up and integrate SAP RPT and TabPFN within the Joule Studio ProCode flow
+Design and implement agents that reason over structured, tabular data
+Test agent behaviour and validate outputs across different data scenarios
+Apply benchmarking techniques to compare model accuracy and guide design decisions
+Turn structured enterprise data into actionable, AI-driven decisions inside your agent pipelines
 
 ## Exercises
 
