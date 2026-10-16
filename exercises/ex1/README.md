@@ -1,48 +1,55 @@
-# Introducing to SAP-RPT-1
+# Exercise 1 - Tabular AI Orchestration
 
-SAP-RPT-1 (Relational Pre-trained Transformer) is SAP's first relational foundation model. Unlike large language models that operate on unstructured text, SAP-RPT-1 is table-native — built to understand and reason over structured relational business data. It supports in-context learning, meaning you can use it out of the box to extract business insights from your data with no model training or fine-tuning required.
+In this exercise, you will learn how to set up the Tabular AI orchestration workflow to run predictions with the SAP-RPT-1.6 model at scale. 
 
-More details about SAP-RPT-1 can be found in the SAP AI Golden Path(https://architecture.learning.sap.com/docs/golden-path/ai-golden-path/build-and-deliver/predictive-tabular-ai?_highlight=rpt#how-to-get-started-with-sap-rpt-1).
-
-In this exercise, we will create...
-
-## Exercise 1.1 Sub Exercise 1 Description
-
-After completing these steps you will have created...
-
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
-
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
-
-
-
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+Tabular AI Orchestration has three components:
 
 ```
+Your App/Agent
+   |
+   v
+Tabular AI Orchestration  <-- single endpoint
+   |              |
+   v              v
+Context        SAP-RPT model
+Selector       (model of your choice)
+   |
+Context Registry
+(your registered dataset)
+```
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+## Quick setup - 
+Preparing the .env file
 
+You should see a `.env.example` file. Rename the file to `.env` and open this file. You would see that we have already prepared some environment variables in the file:
+```
+AICORE_AUTH_URL=<url in XP269-SK.json file>/oauth/token
+AICORE_CLIENT_ID=<clientid in XP269-SK.json file>
+AICORE_CLIENT_SECRET=<clientsecret in XP269-SK.json file>
+AICORE_RESOURCE_GROUP=default
+AICORE_BASE_URL=<AI_API_URL in XP269-SK.json file>
+RPT_DEPLOYMENT_ID=YOUR_SAP_RPT_1.6_DEPLOYMENT_ID
+TABORC_HDLFS_HOST=<hdlfs-host in XP269-SK.json file>
+TABORC_HDLFS_URL=<hdlfs-url in XP269-SK.json file>
+```
+
+Unzip `credentials.zip` file and open the `XP269-SK.json` file. Copy the required values from this JSON file into your `.env` file.
+
+## Exercise 1.1 - Set up Tabular AI Orchestration (Design Time Steps)
+
+After completing these steps, using the uploaded datasets, you have created:
+1. A data destination
+2. A tabular artifact
+3. A scenario configuration
+
+Now, you are ready to try running the workflow and obtain predictions from the SAP-RPT-1.6 model.
+
+## Exercise 1.2 - Live Predictions with Tabular AI Orchestration (Run Time Steps)
+
+>Note: Tabular AI orchestration has already been deployed for you. Simply use the provided deployment ID to start running predictions during the session. If you would like to repeat this on your own setup, we have provided a code block that you can use (currently greyed out).
+
+After completing these steps, you will have successfully obtained model predictions from SAP-RPT-1.6 via the Tabular AI orchestration workflow.
 
 ## Summary
 
-You've now ...
-
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
-
+Now, that you have tried Tabular orchestration. Head to [Exercise 3 - Building an agent with Tabular AI Orchestration and SAP-RPT-1.6](/exercises/ex3/README.md).
