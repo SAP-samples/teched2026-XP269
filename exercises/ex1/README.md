@@ -18,8 +18,7 @@ Context Registry
 (your registered dataset)
 ```
 
-## Quick setup - 
-Preparing the .env file
+## Quick setup - Preparing the .env file
 
 You should see a `.env.example` file. Rename the file to `.env` and open this file. You would see that we have already prepared some environment variables in the file:
 ```
