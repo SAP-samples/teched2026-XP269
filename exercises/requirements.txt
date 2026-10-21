@@ -1,0 +1,9 @@
+matplotlib
+python-dotenv
+pandas
+numpy
+seaborn
+tqdm
+scikit-learn
+pyarrow
+requests

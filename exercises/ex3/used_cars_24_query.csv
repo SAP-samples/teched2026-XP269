@@ -1,0 +1,1185 @@
+Car Brand,Model,Model Year,Location,Fuel,Driven (Kms),Gear,Ownership,Price
+Maruti,SwiftVDI,2014,Delhi,Diesel,117196,Manual,1,328599
+Volkswagen,PoloGT TSI,2018,Delhi,Petrol,43872,Manual,1,716799
+Maruti,Swift DzireVDI BS IV,2013,Delhi,Diesel,79248,Manual,2,358699
+Maruti,ErtigaZDI,2014,Bangalore,Diesel,94656,Manual,3,676199
+Volkswagen,VentoHIGHLINE TDI AT,2015,Chennai,Diesel,90897,Automatic,2,644199
+Hyundai,i10SPORTZ 1.2 KAPPA2,2011,Bangalore,Petrol,31738,Manual,1,404499
+Hyundai,EonMAGNA PLUS,2016,Mumbai,Petrol,59113,Manual,1,324699
+Maruti,CelerioVXI,2018,Chennai,Petrol,53793,Manual,1,458199
+Mitsubishi,Pajero Sport2.5 AT 4X2,2015,Delhi,Diesel,57598,Automatic,1,1300000
+Hyundai,Elite i20Magna Executive 1.2,2018,Chennai,Petrol,21569,Manual,1,623199
+Hyundai,i10MAGNA 1.2 KAPPA2,2013,Hyderabad,Petrol,57200,Manual,1,349799
+Hyundai,VernaFLUIDIC 1.6 VTVT S (O)  MT,2015,Mumbai,Petrol,26547,Manual,2,661899
+Toyota,EtiosG,2012,Delhi,Petrol,50330,Manual,1,376899
+Maruti,SwiftVDI,2012,Delhi,Diesel,95613,Manual,1,304699
+Maruti,CelerioZXI AMT,2016,Bangalore,Petrol,58245,Automatic,1,436899
+Maruti,Alto 800LXI,2017,Delhi,Petrol,23227,Manual,1,276599
+Renault,KwidRXT Opt,2016,Bangalore,Petrol,53414,Manual,1,341299
+Maruti,Vitara BrezzaVDI,2019,Delhi,Diesel,46825,Manual,1,819899
+Maruti,Wagon R 1.0VXI,2015,Hyderabad,Petrol,59222,Manual,1,405399
+Maruti,DzireVDI,2018,Bangalore,Diesel,69361,Manual,1,691984
+Maruti,Wagon R 1.0LXI CNG,2013,Mumbai,Petrol + CNG,72521,Manual,1,306000
+Hyundai,Grand i101.2 CRDI Sportz O,2018,Delhi,Diesel,49708,Manual,1,407999
+Hyundai,Elite i20ASTA 1.2,2016,Delhi,Petrol,32797,Manual,2,598199
+Maruti,S CrossZETA SHVS,2019,Mumbai,Diesel,21538,Manual,1,1154499
+Mahindra,XUV500W8 FWD,2014,Mumbai,Diesel,84226,Manual,1,767699
+Mahindra,XUV500W10 AT,2016,Mumbai,Diesel,82947,Automatic,1,1099000
+Maruti,Wagon R 1.0VXI,2015,Delhi,Petrol,38865,Manual,1,330000
+Toyota,Corolla AltisD 4D G,2012,Delhi,Diesel,118793,Manual,1,609199
+Hyundai,Grand i10SPORTZ (O) 1.2 AT VTVT,2017,Mumbai,Petrol,33248,Manual,1,548299
+Maruti,ErtigaVXI ABS,2017,Mumbai,Petrol,12577,Manual,1,701500
+Maruti,BalenoZETA 1.2 K12,2016,Delhi,Petrol,41691,Manual,1,544000
+Maruti,Wagon R 1.0LXI,2015,Mumbai,Petrol,88026,Manual,1,312599
+Toyota,Innova2.5 GX 8 STR BS IV,2012,Mumbai,Diesel,55023,Manual,1,795399
+Hyundai,Creta1.6 SX PLUS AUTO PETROL,2017,Mumbai,Petrol,14811,Automatic,1,1177000
+Maruti,AltoLXI,2010,Delhi,Petrol,70239,Manual,1,154799
+Maruti,SwiftZXI AMT,2019,Mumbai,Petrol,4888,Automatic,1,703499
+Maruti,DzireVXI,2017,Mumbai,Petrol,21764,Manual,1,594699
+Honda,Accord2.4 MT,2010,Delhi,Petrol,64618,Manual,2,300000
+Maruti,Wagon R 1.0VXI OPT,2017,Chennai,Petrol,42080,Manual,2,418899
+Honda,Amaze1.5 SMT I DTEC,2013,Delhi,Diesel,80246,Manual,1,287628
+Mahindra,Kuv100K8 6 STR,2016,Mumbai,Petrol,40626,Manual,2,354299
+Nissan,SunnyXL DIESEL,2013,Chennai,Diesel,115148,Manual,2,359199
+Mahindra,XUV500W10 FWD,2017,Delhi,Diesel,81240,Manual,2,1007229
+Honda,Brio1.2 VX AT I VTEC,2014,Delhi,Petrol,68437,Automatic,2,421699
+Chevrolet,Sail UVA1.2 LS,2015,Delhi,Petrol,51284,Manual,2,234000
+Hyundai,VernaFLUIDIC 1.6 VTVT S (O)  MT,2015,Mumbai,Petrol,25274,Manual,1,526399
+Hyundai,Elite i20ASTA 1.2,2017,Mumbai,Petrol,11775,Manual,1,726799
+Hyundai,,2018,Delhi,Diesel,51273,,1,830999
+Volkswagen,PoloGT TSI,2019,Mumbai,Petrol,35499,Manual,1,811599
+Maruti,Alto K10VXI,2017,Delhi,Petrol,36262,Manual,1,390399
+Hyundai,Santro XingGL PLUS,2013,Hyderabad,Petrol,13658,Manual,2,348899
+Hyundai,i20SPORTZ 1.2 O,2011,Mumbai,Petrol,45667,Manual,1,364899
+Maruti,ErtigaVDI SHVS,2016,Mumbai,Diesel,90775,Manual,1,762199
+Maruti,A StarVXI,2009,Delhi,Petrol,81050,Manual,2,168899
+Maruti,S CrossZETA 1.3,2018,Hyderabad,Diesel,43847,Manual,1,926399
+Maruti,Zen EstiloVXI,2010,Delhi,Petrol,50189,Manual,2,178599
+Nissan,MicraXV DIESEL,2011,Chennai,Diesel,85958,Manual,1,273999
+Mahindra,QuantoC2,2012,Delhi,Diesel,79049,Manual,1,210000
+Maruti,CiazZDI,2015,Delhi,Diesel,61211,Manual,2,617699
+Maruti,Swift DzireZDI,2013,Delhi,Diesel,67598,Manual,2,393399
+Hyundai,XcentSX 1.2 OPT,2014,Mumbai,Petrol,45782,Manual,1,461199
+Maruti,Eeco5 STR WITH AC PLUSHTR,2020,Chennai,Petrol,7215,Manual,1,486199
+Skoda,Rapid1.6 MPI MT ACTIVE,2017,Delhi,Petrol,35892,Manual,1,575000
+Maruti,ErtigaZXI SMART HYBRID AT,2019,Delhi,Petrol,18250,Automatic,1,1075000
+Skoda,LauraAMBIENTE 2.0 TDI CR AT,2012,Bangalore,Diesel,104404,Automatic,2,532199
+Maruti,Alto K10VXI,2016,Chennai,Petrol,25084,Manual,1,341899
+Maruti,SwiftVDI,2014,Mumbai,Diesel,87227,Manual,1,424399
+Maruti,AltoLXI CNG,2020,Delhi,Petrol + CNG,10588,Manual,1,455000
+Maruti,Vitara BrezzaZDI PLUS,2017,Mumbai,Diesel,114527,Manual,1,856450
+Maruti,New  Wagon-RLXI CNG 1.0 L,2019,Mumbai,Petrol + CNG,21695,Manual,1,550199
+Hyundai,Grand i10SPORTS 1.2 VTVT,2017,Delhi,Petrol,7524,Manual,1,495599
+Hyundai,VernaFLUIDIC 1.6 SX CRDI OPT,2012,Mumbai,Diesel,57401,Manual,2,400000
+Hyundai,EonMAGNA PLUS,2016,Chennai,Petrol,41675,Manual,3,289899
+Renault,KwidRXT,2015,Delhi,Petrol,54227,Manual,1,258599
+Honda,Amaze1.2 SMT I VTEC,2014,Mumbai,Petrol,116242,Manual,1,416099
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,89398,Manual,1,327199
+Volkswagen,PoloGT TSI 1.2 PETROL AT,2017,Chennai,Petrol,35885,Automatic,1,711899
+Maruti,Alto K10VXI,2011,Bangalore,Petrol,62717,Manual,2,221299
+Maruti,BalenoDELTA 1.2 K12,2018,Delhi,Petrol,52995,Manual,1,551000
+Datsun,Redi GoT (O),2017,Chennai,Petrol,31664,Manual,1,301399
+Hyundai,Creta1.6 S,2015,Delhi,Petrol,55668,Manual,1,800000
+Ford,Figo1.4 ZXI DURATORQ,2010,Bangalore,Diesel,61379,Manual,1,295799
+Landrover,Freelander 2SD4 HSE,2014,Delhi,Diesel,118894,Automatic,2,1423699
+Ford,Ecosport1.5 TITANIUM TI VCT,2016,Delhi,Petrol,53896,Manual,1,684699
+Maruti,SwiftLXI OPT,2016,Chennai,Petrol,10560,Manual,1,500799
+Maruti,CelerioVXI,2014,Mumbai,Petrol,28403,Manual,1,362999
+Maruti,SwiftVXI,2015,Delhi,Petrol,54042,Manual,1,377499
+Maruti,Swift DzireZDI,2013,Delhi,Diesel,117879,Manual,1,382299
+Hyundai,i20 Active1.4 SX,2016,Hyderabad,Diesel,57997,Manual,1,660699
+Honda,Brio1.2 S MT I VTEC,2012,Mumbai,Petrol,58375,Manual,2,280999
+Maruti,SwiftZXI 1.3,2008,Bangalore,Petrol,77566,Manual,2,355999
+Ford,Ecosport1.5 TREND TDCI,2014,Delhi,Diesel,97503,Manual,2,336699
+Maruti,Zen EstiloVXI,2011,Bangalore,Petrol,57429,Manual,1,317299
+Honda,City1.5 V MT,2019,Delhi,Petrol,30910,Manual,1,950000
+Maruti,BalenoZETA 1.2 K12 AMT,2017,Bangalore,Petrol,49405,Automatic,2,619099
+Maruti,RitzVDI,2012,Chennai,Diesel,65116,Manual,1,342999
+Renault,Kwid1.0 RXT,2016,Delhi,Petrol,62410,Manual,1,322999
+Maruti,BalenoZETA 1.2 K12,2017,Hyderabad,Petrol,62516,Manual,1,595699
+Maruti,Swift DzireLDI BS IV,2013,Delhi,Diesel,82016,Manual,2,278699
+Mahindra,XUV500W8 FWD,2012,Hyderabad,Diesel,91966,Manual,1,457599
+Hyundai,VernaFLUIDIC 1.6 CRDI SX OPT AT,2016,Delhi,Diesel,38249,Automatic,1,775000
+Maruti,Swift DzireVDI ABS,2015,Bangalore,Diesel,44453,Manual,1,607399
+Maruti,,2019,Delhi,Petrol,12685,,1,800399
+Maruti,CelerioZXI,2018,Bangalore,Petrol,42638,Manual,1,532299
+Ford,Ecosport1.5TITANIUM TDCI,2014,Mumbai,Diesel,95162,Manual,1,507600
+Maruti,Vitara BrezzaZDI PLUS,2018,Mumbai,Diesel,65553,Manual,1,927899
+BMW,X1SDRIVE 20D,2011,Mumbai,Diesel,72092,Automatic,2,787899
+Maruti,CelerioVXI AMT,2014,Bangalore,Petrol,63629,Automatic,2,413099
+Maruti,Wagon R 1.0VXI,2014,Mumbai,Petrol,56827,Manual,1,317099
+Maruti,SwiftVDI,2012,Delhi,Diesel,120187,Manual,2,293799
+Maruti,Zen EstiloLXI,2009,Hyderabad,Petrol,95532,Manual,2,225499
+Maruti,Swift DzireZDI,2013,Delhi,Diesel,77823,Manual,1,378099
+Volkswagen,PoloCOMFORTLINE 1.2L PETROL,2011,Mumbai,Petrol,38375,Manual,1,332499
+Ford,Figo1.4 TITANIUM DURATORQ,2011,Mumbai,Diesel,121729,Manual,1,252799
+Maruti,ErtigaVXI CNG,2014,Delhi,Petrol + CNG,107884,Manual,1,527599
+Maruti,SwiftVXI,2014,Delhi,Petrol,84232,Manual,1,448699
+Hyundai,i10ERA,2008,Hyderabad,Petrol,63040,Manual,2,224099
+Ford,Ecosport1.5 AMBIENTE TDCI,2013,Delhi,Diesel,121668,Manual,1,409099
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2019,Delhi,Petrol,12301,Manual,1,549599
+Hyundai,Creta1.6 SX PLUS AUTO PETROL,2017,Chennai,Petrol,24053,Automatic,2,939499
+Hyundai,i20ASTA 1.2,2010,Bangalore,Petrol,121600,Manual,1,441099
+Maruti,BalenoZETA DDIS 190,2015,Mumbai,Diesel,47715,Manual,1,629899
+Hyundai,,2016,Bangalore,Diesel,113273,,1,840299
+Nissan,Micra ActiveXV,2013,Mumbai,Petrol,43496,Manual,1,300000
+Renault,DusterRXL PACK DIESEL 85,2013,Bangalore,Diesel,60187,Manual,1,611499
+Maruti,Alto 800LXI,2013,Hyderabad,Petrol,40932,Manual,1,281999
+Hyundai,GRAND I10 NIOSMAGNA 1.2 MT,2020,Delhi,Petrol,4955,Manual,1,587899
+Maruti,Alto K10VXI,2018,Delhi,Petrol,53488,Manual,1,312199
+Maruti,SwiftVDI,2012,Mumbai,Diesel,91857,Manual,1,370099
+Hyundai,i20ASTA 1.4 CRDI,2011,Mumbai,Diesel,118057,Manual,2,283199
+Volkswagen,PoloHIGHLINE1.2L PETROL,2016,Mumbai,Petrol,50835,Manual,2,500899
+Maruti,,2016,Delhi,Diesel,158610,,1,527299
+Maruti,Alto K10VXI,2015,Hyderabad,Petrol,234522,Manual,1,239999
+Honda,,2015,Delhi,Petrol,78491,,1,583399
+Maruti,Vitara BrezzaZDI,2018,Delhi,Diesel,38872,Manual,1,823599
+Maruti,SwiftVDI,2013,Delhi,Diesel,68546,Manual,1,353499
+Maruti,RitzVXI BS IV,2010,Bangalore,Petrol,27602,Manual,1,374899
+Maruti,IGNISDELTA 1.2 K12,2017,Mumbai,Petrol,24800,Manual,1,472299
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Mumbai,Petrol,9889,Manual,2,459899
+Maruti,Alto 800LXI,2012,Mumbai,Petrol,45103,Manual,1,247299
+Maruti,DzireVDI,2018,Delhi,Diesel,29959,Manual,1,633899
+Maruti,SwiftZDI AMT,2018,Mumbai,Diesel,50418,Automatic,1,693999
+Renault,KwidRXT,2015,Delhi,Petrol,78499,Manual,1,274299
+Maruti,Alto K10VXI,2011,Bangalore,Petrol,70996,Manual,1,247599
+Maruti,ErtigaZDI PLUS SHVS,2017,Mumbai,Diesel,60669,Manual,1,931199
+Maruti,DzireZXI,2017,Mumbai,Petrol,13460,Manual,1,649699
+Hyundai,i10SPORTZ 1.2,2008,Chennai,Petrol,106887,Manual,1,182599
+Maruti,SwiftZXI,2015,Delhi,Petrol,66285,Manual,2,473999
+Renault,Kwid1.0 RXL,2017,Bangalore,Petrol,22422,Manual,1,341099
+Renault,,2017,Delhi,Petrol,32258,,1,301999
+Hyundai,VernaFLUIDIC 1.6 SX VTVT,2012,Mumbai,Petrol,64134,Manual,1,430499
+Maruti,Eeco5 STR WITH AC PLUSHTR,2020,Chennai,Petrol,9375,Manual,1,467999
+Volkswagen,AmeoHIGHLINE PLUS 1.5,2017,Delhi,Diesel,69050,Manual,2,501500
+Maruti,Alto K10VXI,2014,Delhi,Petrol,110963,Manual,1,254599
+Hyundai,,2018,Delhi,Petrol,20241,,1,1247299
+Hyundai,i20 Active1.2 S,2016,Mumbai,Petrol,80962,Manual,1,650000
+Renault,TRIBER1.0 RXT,2019,Mumbai,Petrol,14622,Manual,1,569599
+Mahindra,,2021,Delhi,Diesel,1313,,1,1430000
+Maruti,Swift DzireVDI BS IV,2014,Hyderabad,Diesel,155205,Manual,2,458899
+Maruti,SwiftVXI,2012,Bangalore,Petrol,29624,Manual,1,438899
+Maruti,Vitara BrezzaZDI AMT,2019,Bangalore,Diesel,15297,Automatic,1,1062699
+Maruti,Alto K10LXI,2011,Delhi,Petrol,80346,Manual,1,211799
+Maruti,S CrossZETA 1.3,2015,Bangalore,Diesel,55155,Manual,1,760099
+Mercedes,Benz E ClassE 220 CDI ELEGANCE,2013,Delhi,Diesel,67380,Manual,1,1420099
+Volkswagen,PoloHIGHLINE1.5L DIESEL,2015,Delhi,Diesel,86855,Manual,1,369899
+Maruti,BalenoDELTA 1.2 K12 AMT,2017,Delhi,Petrol,23347,Automatic,1,666799
+Maruti,Wagon R 1.0VXI,2013,Mumbai,Petrol,17781,Manual,1,308499
+Toyota,Corolla AltisD 4D JS,2013,Delhi,Diesel,92260,Manual,1,557099
+Hyundai,Grand i10MAGNA 1.2 VTVT,2016,Bangalore,Petrol,61025,Manual,1,445499
+Honda,Jazz1.2 V AT,2016,Mumbai,Petrol,10430,Automatic,2,564799
+Hyundai,,2018,Mumbai,Petrol,32813,,1,672799
+Maruti,DzireVDI AMT,2018,Mumbai,Diesel,37973,Automatic,1,795199
+Maruti,Alto 800LXI,2013,Chennai,Petrol,44177,Manual,1,272199
+Maruti,SwiftVXI,2019,Chennai,Petrol,18293,Manual,1,632399
+Hyundai,i10SPORTZ 1.1 IRDE2,2014,Hyderabad,Petrol,81336,Manual,1,369399
+Maruti,Eeco5 STR WITH AC PLUSHTR,2018,Hyderabad,Petrol,25514,Manual,1,406199
+KIA,SELTOSGTX+ 1.4 MT,2019,Mumbai,Petrol,12046,Manual,1,1883599
+Hyundai,Grand i10ASTA 1.2 AT VTVT,2014,Bangalore,Petrol,21727,Automatic,1,588199
+Maruti,Swift DzireVDI BS IV,2014,Mumbai,Diesel,87333,Manual,1,548499
+Maruti,Vitara BrezzaVDI,2016,Delhi,Diesel,29262,Manual,1,687699
+Mercedes,Benz C ClassC 200 AVANTGARDE,2013,Delhi,Petrol,80978,Manual,2,1343599
+Honda,CityVX CVT PETROL,2014,Delhi,Petrol,61798,Automatic,1,675000
+Maruti,,2018,Mumbai,Petrol,15019,,1,353999
+Maruti,SwiftVXI,2013,Mumbai,Petrol,78705,Manual,1,351199
+Maruti,RitzVXI BS IV,2010,Bangalore,Petrol,66102,Manual,2,322099
+Maruti,Vitara BrezzaVDI,2019,Delhi,Diesel,37696,Manual,1,880299
+Maruti,Swift DzireZDI,2012,Delhi,Diesel,86622,Manual,1,357799
+Tata,NanoTWIST XTA,2016,Mumbai,Petrol,71051,Automatic,1,191899
+Maruti,CiazZETA 1.4 VVT,2017,Delhi,Petrol,41182,Manual,1,688599
+Hyundai,i20ASTA 1.2,2013,Mumbai,Petrol,41048,Manual,2,513499
+Hyundai,i20MAGNA 1.2 VTVT,2009,Delhi,Petrol,126202,Manual,1,246399
+Tata,TiagoXZA 1.2 REVOTRON,2018,Mumbai,Petrol,16384,Automatic,1,497099
+Toyota,EtiosGD,2014,Delhi,Diesel,134877,Manual,3,431399
+Honda,Jazz1.2 SV PETROL,2015,Hyderabad,Petrol,56710,Manual,2,483599
+Hyundai,EonERA PLUS,2016,Bangalore,Petrol,19484,Manual,1,328399
+Maruti,Vitara BrezzaVDI,2017,Delhi,Diesel,51673,Manual,2,657899
+Hyundai,i20ASTA 1.2 O WITH SUNROOF,2009,Mumbai,Petrol,67586,Manual,1,320000
+Maruti,Wagon R 1.0VXI,2013,Bangalore,Petrol,121572,Manual,1,375999
+Maruti,CelerioVXI CNG,2019,Mumbai,Petrol + CNG,15008,Manual,1,564399
+Volkswagen,VentoCOMFORTLINE MT PETROL,2013,Mumbai,Petrol,71919,Manual,1,456699
+Hyundai,Grand i10SPORTZ O 1.2,2017,Mumbai,Petrol,29424,Manual,1,498399
+Maruti,CiazZXI PLUS,2015,Mumbai,Petrol,71429,Manual,1,625000
+Mahindra,ScorpioS6 PLUS,2014,Delhi,Diesel,110593,Manual,2,722999
+Hyundai,Grand i10SPORTS 1.2 VTVT,2017,Mumbai,Petrol,27887,Manual,1,486199
+Maruti,Alto K10VXI,2012,Delhi,Petrol,56210,Manual,1,360599
+Ford,Ecosport1.5 TITANIUM TI VCT AT,2014,Mumbai,Petrol,51040,Automatic,1,625000
+Hyundai,Santro XingGLS,2013,Hyderabad,Petrol,68484,Manual,1,295499
+Honda,Amaze1.5 SMT I DTEC,2014,Delhi,Diesel,84258,Manual,1,356099
+Hyundai,,2019,Delhi,Diesel,43939,,1,927299
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Mumbai,Petrol,36553,Manual,1,504699
+Maruti,Vitara BrezzaVXI,2020,Delhi,Petrol,9450,Manual,1,880000
+Maruti,A StarVXI,2008,Bangalore,Petrol,60195,Manual,2,207399
+Hyundai,Grand i10MAGNA 1.2 KAPPA VTVT,2017,Delhi,Petrol,64174,Manual,1,410099
+Renault,,2017,Mumbai,Petrol,25497,,1,409399
+Maruti,Alto K10VXI,2019,Bangalore,Petrol,14749,Manual,2,374499
+Hyundai,Elite i20ASTA 1.2 (O),2018,Chennai,Petrol,53273,Manual,1,710099
+Maruti,IGNISALPHA 1.2 K12,2020,Delhi,Petrol,12403,Manual,1,640000
+Mahindra,Kuv100K6 D 5 STR,2016,Delhi,Diesel,59373,Manual,1,332000
+Maruti,Eeco5 STR WITH AC PLUSHTR,2015,Bangalore,Petrol,36647,Manual,1,371999
+Maruti,DzireVDI,2018,Delhi,Diesel,89215,Manual,1,566000
+Maruti,Alto 800VXI,2018,Chennai,Petrol,13741,Manual,1,337999
+Maruti,Vitara BrezzaVDI OPT,2018,Mumbai,Diesel,57487,Manual,1,816500
+Maruti,DzireVXI AMT,2017,Mumbai,Petrol,19612,Automatic,1,659599
+Renault,Kwid1.0 RXT Opt,2019,Hyderabad,Petrol,3145,Manual,1,408499
+Honda,Brio1.2 S MT I VTEC,2012,Mumbai,Petrol,88402,Manual,1,329899
+Volkswagen,PoloHIGHLINE1.2L PETROL,2015,Delhi,Petrol,72351,Manual,1,415000
+Maruti,Alto 800LXI,2014,Chennai,Petrol,27562,Manual,1,291799
+Maruti,Alto 800LXI,2017,Mumbai,Petrol,55180,Manual,1,297899
+Maruti,Vitara BrezzaLDI OPT,2018,Delhi,Diesel,74994,Manual,1,607799
+Hyundai,Elite i20SPORTZ 1.2,2017,Hyderabad,Petrol,38526,Manual,2,627599
+Hyundai,Santro XingGL PLUS LPG,2011,Chennai,Petrol + LPG,90676,Manual,2,196499
+Maruti,Wagon R 1.0VXI,2014,Mumbai,Petrol,36047,Manual,1,376699
+Maruti,Vitara BrezzaLDI OPT,2016,Delhi,Diesel,43476,Manual,1,557599
+Tata,TiagoXZ 1.2 REVOTRON,2017,Hyderabad,Petrol,90206,Manual,1,438999
+Hyundai,Elite i20SPORTZ 1.2,2015,Delhi,Petrol,62812,Manual,2,446799
+Tata,HexaVaricor 400 XTA,2017,Mumbai,Diesel,22399,Automatic,1,1288099
+Maruti,Swift DzireLDI BS IV,2015,Delhi,Diesel,71488,Manual,1,451999
+Maruti,Alto K10VXI,2012,Bangalore,Petrol,49264,Manual,1,358299
+Maruti,Alto 800LXI,2013,Delhi,Petrol,52685,Manual,1,220699
+Hyundai,,2019,Delhi,Petrol,7498,,1,1049199
+Maruti,Swift DzireZDI,2012,Delhi,Diesel,79396,Manual,1,365899
+Datsun,Go PlusT,2017,Mumbai,Petrol,36625,Manual,1,372699
+Maruti,Swift DzireVXI 1.2 BS IV,2013,Delhi,Petrol,34878,Manual,1,364000
+Maruti,DzireZXI AMT,2019,Bangalore,Petrol,11651,Automatic,1,791999
+Honda,Brio1.2 VX AT I VTEC,2014,Mumbai,Petrol,75162,Automatic,1,457499
+Maruti,Alto K10VXI,2015,Bangalore,Petrol,26140,Manual,2,306799
+Hyundai,Grand i10MAGNA 1.2 VTVT,2013,Bangalore,Petrol,42677,Manual,1,424299
+Maruti,RitzZXI ABS,2012,Delhi,Petrol,39650,Manual,1,298299
+Hyundai,Creta1.6 SX AT CRDI,2019,Delhi,Diesel,39695,Manual,1,1406699
+Hyundai,Elite i20Magna Executive 1.2 AT,2018,Delhi,Petrol,39238,Manual,1,685000
+Maruti,Celerio XZxi AMT,2018,Chennai,Petrol,32429,Automatic,1,504899
+Hyundai,i10MAGNA 1.2,2008,Delhi,Petrol,69701,Manual,1,173499
+Maruti,CelerioVXI,2018,Delhi,Petrol,6644,Manual,1,455999
+Maruti,SwiftVXI,2016,Bangalore,Petrol,116795,Manual,1,523899
+Hyundai,VernaFLUIDIC 1.6 CRDI S,2015,Delhi,Diesel,41903,Manual,1,583599
+Hyundai,i20SPORTZ O 1.4 CRDI,2011,Chennai,Diesel,124307,Manual,1,356399
+Maruti,Eeco5 STR WITH AC PLUSHTR,2018,Chennai,Petrol,20780,Manual,1,426199
+Maruti,SwiftVXI,2014,Chennai,Petrol,3600,Manual,1,464399
+Maruti,Wagon R 1.0VXI ABS AIR BAG,2011,Hyderabad,Petrol,104293,Manual,2,256499
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Delhi,Petrol,116596,Manual,1,477999
+Toyota,Fortuner3.0 MT 4X4,2009,Hyderabad,Diesel,215378,Manual,2,932199
+Honda,CityVX CVT PETROL,2016,Mumbai,Petrol,56287,Automatic,1,727199
+Hyundai,Elite i20ERA 1.2,2018,Chennai,Petrol,25870,Manual,2,584399
+Maruti,Alto 800LXI,2017,Mumbai,Petrol,20192,Manual,1,296399
+Hyundai,NEW SANTRO1.1 SPORTS AMT,2019,Mumbai,Petrol,13505,Manual,1,556999
+Hyundai,i10MAGNA 1.2 KAPPA2,2011,Bangalore,Petrol,73153,Manual,1,323899
+Maruti,Alto 800LXI,2012,Mumbai,Petrol,9042,Manual,2,243999
+Honda,CityS MT PETROL,2009,Bangalore,Petrol,142543,Manual,1,306899
+Hyundai,Grand i10MAGNA 1.2 VTVT,2013,Bangalore,Petrol,77006,Manual,2,436099
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2014,Delhi,Petrol,53412,Manual,1,431899
+Maruti,Swift DzireVDI BS IV,2013,Mumbai,Diesel,137748,Manual,1,525099
+Maruti,SwiftVDI,2012,Delhi,Diesel,124996,Manual,1,385999
+Maruti,,2018,Bangalore,Petrol,9861,,1,430499
+Maruti,SwiftVDI,2013,Delhi,Diesel,84308,Manual,2,317899
+Maruti,BalenoDELTA 1.2 K12,2016,Chennai,Petrol,42411,Manual,1,543799
+Hyundai,i10MAGNA 1.2 KAPPA2,2012,Hyderabad,Petrol,44883,Manual,1,328999
+Maruti,Swift DzireVXI 1.2 BS IV,2014,Bangalore,Petrol,42772,Manual,1,512699
+Honda,Amaze1.5 SX MT I DTEC,2015,Delhi,Diesel,70686,Manual,1,470000
+Hyundai,Grand i10ASTA 1.2 (O) VTVT,2015,Bangalore,Petrol,77606,Manual,1,469499
+Honda,Jazz1.2 BASE I VTEC,2010,Delhi,Petrol,107333,Manual,2,238799
+Maruti,IGNISDELTA 1.2 K12,2017,Mumbai,Petrol,16617,Manual,1,485199
+Maruti,BalenoDELTA 1.2 K12,2017,Bangalore,Petrol,23896,Manual,1,637399
+Hyundai,Elite i20MAGNA 1.2,2016,Mumbai,Petrol,18043,Manual,2,507999
+Hyundai,i10MAGNA 1.2,2010,Mumbai,Petrol,60563,Manual,2,224899
+Honda,WR-V1.2 i-VTEC VX MT,2018,Delhi,Petrol,31547,Manual,1,766000
+Toyota,Etios LivaD 4D GD SP,2014,Delhi,Diesel,134058,Manual,2,337299
+Renault,KwidRXT Opt,2015,Delhi,Petrol,70590,Manual,1,258499
+Maruti,CelerioZXI ABS AMT,2017,Delhi,Petrol,88442,Automatic,1,385899
+Maruti,Eeco5 STR CNG WITH AC PLUSHTR,2018,Delhi,Petrol + CNG,62858,Manual,1,354199
+Mahindra,E2OT2,2015,Bangalore,Electric,61284,Manual,2,271699
+Hyundai,i20SPORTZ 1.2 O,2010,Delhi,Petrol,53720,Manual,1,250000
+Hyundai,NEW SANTRO1.1 MAGNA MT,2018,Delhi,Petrol,9939,Manual,1,384799
+Toyota,Innova2.5 VX 8 STR BS IV,2014,Delhi,Diesel,84036,Manual,1,860399
+Hyundai,i10MAGNA 1.2 KAPPA2,2011,Bangalore,Petrol,71708,Manual,2,324699
+Honda,CityV MT PETROL,2017,Bangalore,Petrol,18672,Manual,1,867499
+Mahindra,,2017,Delhi,Diesel,92937,,1,1193499
+Maruti,SwiftVXI,2011,Hyderabad,Petrol,46729,Manual,1,403899
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,96266,Manual,1,418499
+Maruti,SwiftLXI,2012,Delhi,Petrol,40551,Manual,1,314599
+Hyundai,Elite i20MAGNA 1.4 CRDI,2014,Delhi,Diesel,114434,Manual,1,384399
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,92527,Manual,1,376699
+Maruti,BalenoALPHA DDIS 190,2018,Hyderabad,Diesel,60058,Manual,2,668099
+Maruti,Alto 800LXI,2013,Delhi,Petrol,41465,Manual,1,231299
+Maruti,ErtigaVDI SHVS,2019,Mumbai,Diesel,43052,Manual,1,1061999
+Honda,Brio1.2 V MT I VTEC,2012,Hyderabad,Petrol,42518,Manual,1,398399
+Maruti,Swift DzireVDI BS IV,2012,Chennai,Diesel,61739,Manual,1,462299
+Maruti,DzireVDI,2017,Delhi,Diesel,60278,Manual,1,541399
+MG,HECTORSHARP DCT PETROL,2019,Delhi,Petrol,2054,Automatic,1,1850000
+Maruti,Alto K10VXI,2011,Mumbai,Petrol,59578,Manual,1,198099
+Nissan,SunnyXV PETROL,2011,Bangalore,Petrol,24353,Manual,1,449099
+Maruti,CiazDELTA 1.4 VVT,2018,Delhi,Petrol,25962,Manual,1,775000
+Hyundai,Elite i20SPORTZ 1.4,2017,Delhi,Diesel,148526,Manual,1,506999
+Volkswagen,AmeoCOMFORTLINE 1.0,2019,Delhi,Petrol,19951,Manual,1,525000
+Datsun,GoT,2014,Mumbai,Petrol,34064,Manual,2,203699
+Honda,CityV MT PETROL,2009,Bangalore,Petrol,72313,Manual,2,410299
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Hyderabad,Petrol,10025,Manual,1,449299
+Maruti,Alto K10VXI,2012,Bangalore,Petrol,58683,Manual,1,284399
+Maruti,SwiftVXI,2012,Delhi,Petrol + CNG,65573,Manual,1,250299
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Mumbai,Petrol,23070,Manual,2,481199
+Maruti,Wagon R 1.0VXI,2017,Chennai,Petrol,40381,Manual,1,402099
+Hyundai,i20MAGNA 1.2 VTVT,2013,Delhi,Petrol,50086,Manual,3,275000
+Maruti,Vitara BrezzaVDI,2019,Delhi,Diesel,26930,Manual,1,773299
+Maruti,Swift DzireVXI 1.2 BS IV,2012,Delhi,Petrol,50615,Manual,1,456799
+Volkswagen,JettaHIGHLINE TDI AT,2015,Mumbai,Diesel,99815,Automatic,1,981699
+Honda,Jazz1.2 SELECT I VTEC,2011,Mumbai,Petrol,120872,Manual,1,284999
+Honda,Jazz1.2 SV MT,2017,Mumbai,Petrol,15606,Manual,1,575000
+Hyundai,i10SPORTZ 1.2 KAPPA2,2013,Delhi,Petrol,95367,Manual,2,316399
+Maruti,Eeco7 STR,2010,Mumbai,Petrol,49362,Manual,1,213199
+Maruti,Vitara BrezzaZDI,2018,Mumbai,Diesel,52403,Manual,1,922199
+Maruti,A StarVXI,2009,Delhi,Petrol,55510,Manual,1,209299
+Maruti,BalenoDELTA 1.2 K12,2016,Mumbai,Petrol,14866,Manual,2,541499
+Maruti,Swift DzireVDI BS IV,2013,Delhi,Diesel,149275,Manual,1,340999
+Maruti,Eeco5 STR WITH AC PLUSHTR,2015,Chennai,Petrol,19815,Manual,2,367499
+Toyota,Innova2.5 VX 7 STR BS IV,2014,Delhi,Diesel,93061,Manual,1,819299
+Hyundai,EonMAGNA,2012,Bangalore,Petrol,41950,Manual,1,304699
+Maruti,ErtigaVXI SMART HYBRID,2019,Delhi,Petrol,8275,Manual,1,809299
+Honda,CityV MT PETROL,2013,Delhi,Petrol,40028,Manual,2,403699
+Maruti,SwiftZXI,2012,Delhi,Petrol,15538,Manual,1,449099
+Hyundai,i20SPORTZ 1.2 VTVT,2012,Mumbai,Petrol,105532,Manual,2,297699
+Ford,Ecosport1.5 TREND TDCI,2015,Delhi,Diesel,90792,Manual,1,489999
+Maruti,CiazDELTA 1.5 SHVS VVT MT,2020,Delhi,Petrol,6277,Manual,1,845199
+Maruti,Alto 800LXI,2013,Mumbai,Petrol,45481,Manual,1,270299
+Maruti,BalenoZETA 1.2 K12,2018,Hyderabad,Petrol,40509,Manual,1,619192
+Maruti,Swift DzireLDI BS IV,2013,Delhi,Diesel,67411,Manual,1,280099
+Hyundai,Santro XingGLS,2008,Hyderabad,Petrol,41859,Manual,1,190599
+Renault,DusterRXZ DIESEL 110,2013,Chennai,Diesel,93129,Manual,1,657899
+Hyundai,i10SPORTZ 1.2 AT KAPPA2,2012,Delhi,Petrol,36725,Automatic,1,299099
+Honda,CityV MT PETROL,2010,Bangalore,Petrol,122392,Manual,1,367999
+Volkswagen,PoloHIGHLINE1.2L PETROL,2014,Mumbai,Petrol,34114,Manual,1,408499
+Maruti,Eeco5 STR CNG WITH AC PLUSHTR,2011,Mumbai,Petrol + CNG,60023,Manual,1,220399
+Maruti,SwiftVDI,2014,Delhi,Diesel,92117,Manual,1,361399
+Maruti,SwiftVXI,2011,Delhi,Petrol,87537,Manual,2,349599
+Maruti,Vitara BrezzaVDI,2019,Delhi,Diesel,49488,Manual,1,849299
+Maruti,Swift DzireZXI 1.2 BS IV,2015,Hyderabad,Petrol,90617,Manual,2,518799
+Toyota,EtiosGD,2017,Hyderabad,Diesel,86972,Manual,2,521099
+Maruti,Alto K10VXI,2012,Bangalore,Petrol,46004,Manual,1,294899
+Maruti,Swift DzireVDI OPT,2017,Hyderabad,Diesel,59374,Manual,1,680599
+Hyundai,Grand i10ASTA 1.2 KAPPA VTVT,2014,Chennai,Petrol,64857,Manual,2,468799
+Maruti,BalenoALPHA 1.2 K12 AMT,2019,Delhi,Petrol,20202,Automatic,1,804000
+Tata,TiagoXT 1.2 REVOTRON,2017,Delhi,Petrol,24648,Manual,1,360799
+Maruti,SwiftVXI,2015,Delhi,Petrol,38695,Manual,1,556399
+Volkswagen,AmeoHIGHLINE 1.2,2017,Mumbai,Petrol,14927,Manual,1,562699
+Honda,Amaze1.2 SMT I VTEC,2015,Delhi,Petrol,26329,Manual,1,375899
+Maruti,RitzVDI,2011,Bangalore,Diesel,71585,Manual,2,350599
+Maruti,SwiftVXI,2020,Mumbai,Petrol,5851,Manual,1,671499
+Honda,Amaze1.2 SMT I VTEC,2014,Mumbai,Petrol,67170,Manual,2,366099
+Maruti,Vitara BrezzaVDI,2019,Mumbai,Diesel,5899,Manual,1,958699
+Volkswagen,VentoHIGHLINE PETROL AT,2011,Mumbai,Petrol,82508,Automatic,3,283099
+Toyota,Innova Crysta2.8 GX AT 7 STR,2017,Delhi,Diesel,104502,Automatic,2,1391299
+Hyundai,Getz Prime1.3 GVS,2008,Bangalore,Petrol,43423,Manual,1,222299
+Maruti,Vitara BrezzaVDI,2018,Delhi,Diesel,38325,Manual,1,740799
+Maruti,DzireZDI,2017,Mumbai,Diesel,16137,Manual,1,736999
+Honda,CityVX MT O DIESEL,2015,Delhi,Diesel,102442,Manual,2,552099
+Hyundai,Elite i201.2 SPORTS PLUS VTVT,2019,Mumbai,Petrol,20204,Manual,1,648299
+Maruti,Alto 800LXI,2012,Hyderabad,Petrol,44068,Manual,2,234999
+Hyundai,i10SPORTZ 1.2 KAPPA2,2011,Chennai,Petrol,54960,Manual,1,336899
+Hyundai,i10SPORTZ 1.2 AT KAPPA2,2011,Hyderabad,Petrol,70484,Automatic,2,329999
+Maruti,RitzLXI,2010,Bangalore,Petrol,61156,Manual,1,349499
+Maruti,AltoLXI,2019,Delhi,Petrol,10554,Manual,1,329000
+Maruti,RitzVXI BS IV,2013,Chennai,Petrol,39805,Manual,2,332699
+Maruti,Swift DzireVXI 1.2 BS IV,2014,Mumbai,Petrol,72771,Manual,2,441799
+Maruti,Alto K10VXI,2015,Bangalore,Petrol,24669,Manual,1,346599
+Maruti,RitzZXI,2014,Hyderabad,Petrol,65000,Manual,1,351899
+Hyundai,EonD LITE PLUS,2014,Delhi,Petrol,30577,Manual,1,278899
+Maruti,Swift DzireVDI BS IV,2013,Mumbai,Diesel,74265,Manual,1,450599
+Maruti,RitzVXI BS IV,2014,Bangalore,Petrol,108184,Manual,1,430399
+Ford,Ecosport1.5AMBIENTE TI VCT,2014,Bangalore,Petrol,123105,Manual,1,483699
+Hyundai,i10MAGNA 1.1 IRDE2,2011,Delhi,Petrol,66838,Manual,2,262099
+Maruti,ErtigaVDI SHVS,2017,Mumbai,Diesel,55405,Manual,1,727899
+Maruti,SwiftVXI,2014,Delhi,Petrol,91385,Manual,1,449099
+Maruti,Swift DzireVDI ABS,2016,Delhi,Diesel,58003,Manual,1,558999
+Maruti,Alto K10LXI,2016,Delhi,Petrol,41948,Manual,1,281699
+Maruti,Swift DzireVXI AMT,2014,Mumbai,Petrol,57109,Automatic,2,413599
+Volkswagen,PoloCOMFORTLINE 1.2L PETROL,2014,Mumbai,Petrol,12337,Manual,2,395000
+Maruti,Wagon R 1.0VXI,2010,Mumbai,Petrol,102987,Manual,1,253399
+Maruti,Swift DzireVXI 1.2 BS IV,2014,Mumbai,Petrol,56002,Manual,1,459599
+Maruti,Alto 800LXI,2014,Mumbai,Petrol,9503,Manual,1,289799
+Maruti,Swift DzireVDI BS IV,2012,Mumbai,Diesel,92029,Manual,2,401799
+Maruti,BalenoDELTA 1.2 K12,2015,Delhi,Petrol,21634,Manual,1,548799
+Maruti,SwiftVXI,2015,Mumbai,Petrol,24765,Manual,1,446199
+Maruti,SwiftVDI ABS,2016,Chennai,Diesel,73401,Manual,1,504999
+Maruti,Alto 800LXI,2012,Mumbai,Petrol,68344,Manual,1,201399
+Maruti,Alto K10VXI,2010,Delhi,Petrol,40666,Manual,1,189699
+Honda,JazzVX  1.2,2019,Delhi,Petrol,17600,Manual,1,825000
+Jeep,Compass2.0 LONGITUDE,2017,Mumbai,Diesel,28310,Manual,1,1254099
+Toyota,Innova2.5 G4 7 STR,2010,Mumbai,Diesel,205948,Manual,2,500699
+Hyundai,VernaTRANSFORM 1.6 VTVT,2010,Bangalore,Petrol,81333,Manual,3,323399
+Renault,KwidRXT,2017,Mumbai,Petrol,47489,Manual,1,367399
+Maruti,AltoLXI,2020,Delhi,Petrol,3942,Manual,1,398399
+Maruti,Swift DzireLDI BS IV,2013,Chennai,Diesel,95428,Manual,1,441299
+Honda,CityE MT DIESEL,2014,Delhi,Diesel,137256,Manual,2,391399
+Honda,CityV MT PETROL,2017,Bangalore,Petrol,28454,Manual,1,885299
+Hyundai,i20ASTA 1.4 CRDI,2012,Mumbai,Diesel,57281,Manual,2,344299
+Hyundai,Santa Fe4WD,2013,Mumbai,Diesel,78195,Manual,1,825000
+Maruti,BalenoDELTA 1.2 K12,2018,Delhi,Petrol,22024,Manual,1,571799
+Maruti,Alto K10VXI,2011,Bangalore,Petrol,31180,Manual,2,315299
+Honda,Brio1.2 S MT I VTEC,2013,Hyderabad,Petrol,40362,Manual,2,362299
+Maruti,ErtigaZDI,2012,Mumbai,Diesel,42665,Manual,1,639999
+Hyundai,Elite i20SPORTZ 1.2,2015,Bangalore,Petrol,50622,Manual,2,491999
+Maruti,Swift DzireVDI BS IV,2014,Chennai,Diesel,80315,Manual,1,501699
+Maruti,SwiftVXI,2016,Chennai,Petrol,48512,Manual,2,476799
+Maruti,AltoLXI,2011,Delhi,Petrol,36493,Manual,1,130599
+Maruti,Alto K10VXI,2019,Hyderabad,Petrol,11699,Manual,1,410699
+Toyota,EtiosG SP,2011,Mumbai,Petrol,46042,Manual,1,358899
+Honda,Amaze1.5 SMT I DTEC,2013,Hyderabad,Diesel,85851,Manual,3,413399
+Maruti,Swift DzireZDI AMT,2016,Mumbai,Diesel,45207,Automatic,1,617099
+Maruti,Swift DzireLDI BS IV,2013,Delhi,Diesel,146512,Manual,1,273099
+Maruti,RitzLDI,2013,Delhi,Diesel,70017,Manual,1,221899
+Hyundai,i10MAGNA 1.1 IRDE2,2011,Delhi,Petrol,29101,Manual,3,316699
+Toyota,Innova2.5 VX 7 STR BS IV,2014,Bangalore,Diesel,227391,Manual,1,1085799
+Maruti,Swift DzireVXI 1.2 BS IV,2014,Mumbai,Petrol,35527,Manual,1,474099
+Hyundai,,2018,Mumbai,Petrol,6874,,1,521499
+Hyundai,Elite i201.4 MAGNA PLUS CRDI,2019,Hyderabad,Diesel,28724,Manual,1,598499
+Ford,Ecosport1.5 TITANIUM TI VCT AT,2015,Mumbai,Petrol,49065,Automatic,2,536299
+Hyundai,Grand i10SPORTZ O 1.2,2017,Delhi,Petrol,8055,Manual,1,505000
+Volkswagen,PoloCOMFORTLINE 1.2L DIESEL,2012,Delhi,Diesel,69584,Manual,1,337999
+Maruti,AltoVXI,2019,Hyderabad,Petrol,9222,Manual,1,375299
+Renault,KwidRXT,2017,Mumbai,Petrol,29875,Manual,1,338399
+Maruti,SwiftVXI,2018,Hyderabad,Petrol,19527,Manual,2,613499
+Maruti,,2019,Delhi,Petrol,8326,,1,902699
+Maruti,Eeco7 STR,2017,Delhi,Petrol + CNG,105847,Manual,1,284599
+Maruti,Alto 800LXI,2016,Delhi,Petrol,39424,Manual,1,296999
+Maruti,Alto K10VXI,2012,Bangalore,Petrol,36453,Manual,1,289699
+Mahindra,XUV500W8 FWD,2015,Delhi,Diesel,84778,Manual,2,708499
+Hyundai,VernaFLUIDIC 1.6 SX CRDI,2012,Delhi,Diesel,84417,Manual,1,372499
+Hyundai,Grand i10SPORTS 1.2 VTVT,2016,Delhi,Petrol + CNG,54578,Manual,2,373799
+Honda,Jazz1.2 S MT,2012,Mumbai,Petrol,60362,Manual,2,315000
+Maruti,Wagon R 1.0LXI,2011,Delhi,Petrol,49767,Manual,2,212499
+Maruti,Alto 800LXI,2012,Delhi,Petrol,126375,Manual,2,202099
+Maruti,Wagon R 1.0VXI,2014,Hyderabad,Petrol,58748,Manual,2,340099
+Datsun,Redi GoT (O),2018,Chennai,Petrol,17198,Manual,1,305699
+Toyota,Innova2.5 GX 8 STR BS IV,2015,Delhi,Diesel,76940,Manual,2,711599
+Maruti,IGNISZETA 1.2 K12,2017,Delhi,Petrol,42049,Manual,1,510099
+Maruti,CelerioZXI AMT,2016,Mumbai,Petrol,26772,Automatic,1,411499
+Maruti,S PRESSOVXI PLUS,2020,Mumbai,Petrol,4603,Manual,1,464999
+Maruti,DzireZXI AMT,2019,Delhi,Petrol,34172,Automatic,1,750699
+Maruti,Alto 800LXI,2018,Hyderabad,Petrol,20687,Manual,2,324499
+Hyundai,Creta1.6 CRDI SX PLUS AUTO,2018,Delhi,Diesel,78027,Automatic,2,1058999
+Maruti,,2016,Mumbai,Petrol,25943,,1,317399
+Maruti,SX4ZXI AT,2011,Delhi,Petrol,89631,Automatic,1,251000
+Maruti,Wagon R 1.0LXI CNG,2017,Mumbai,Petrol + CNG,48137,Manual,1,375600
+Hyundai,Grand i10MAGNA 1.2 VTVT,2018,Delhi,Petrol,16558,Manual,1,529599
+Maruti,Swift DzireZXI 1.2 BS IV,2013,Mumbai,Petrol,112332,Manual,1,395000
+Maruti,Swift DzireVXI 1.2 BS IV,2017,Bangalore,Petrol,42478,Manual,1,601999
+Toyota,Innova2.5 V 7STR,2010,Mumbai,Diesel,172520,Manual,2,504599
+Hyundai,i10MAGNA 1.2,2008,Bangalore,Petrol,62730,Manual,3,240199
+Maruti,RitzZXI,2009,Bangalore,Petrol,39996,Manual,2,359099
+Renault,Kwid1.0 RXL,2017,Delhi,Petrol,32036,Manual,1,282899
+Hyundai,Creta1.6 S,2015,Mumbai,Petrol,33616,Manual,1,885000
+Maruti,SwiftVXI,2013,Bangalore,Petrol,68315,Manual,1,501699
+Maruti,Wagon R 1.0VXI,2018,Delhi,Petrol + CNG,40328,Manual,2,367199
+Hyundai,Elite i20SPORTZ 1.2,2017,Mumbai,Petrol,23132,Manual,1,577799
+BMW,3 Series320D SPORTLINE,2014,Mumbai,Diesel,76122,Automatic,1,1613399
+Renault,KwidRXL,2016,Bangalore,Petrol,16048,Manual,1,351499
+Hyundai,i10ERA 1.1 IRDE,2011,Mumbai,Petrol,45682,Manual,2,200000
+Maruti,SwiftVXI LIMITED EDITION,2017,Mumbai,Petrol,27809,Manual,1,501199
+Maruti,RitzVDI,2012,Chennai,Diesel,70091,Manual,2,306399
+Hyundai,,2017,Mumbai,Petrol,85389,,1,458399
+Maruti,CiazVDI+ SHVS,2017,Delhi,Diesel,81751,Manual,1,611499
+Maruti,Wagon R 1.0VXI,2015,Chennai,Petrol,25650,Manual,1,437599
+Maruti,BalenoZETA 1.2 K12,2019,Chennai,Petrol,18253,Manual,1,701699
+Maruti,S CrossZETA 1.3,2018,Mumbai,Diesel,41921,Manual,1,890000
+Mahindra,,2017,Delhi,Diesel,59935,,2,1105000
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Delhi,Petrol,8454,Manual,1,421099
+Honda,CityVX MT PETROL,2014,Chennai,Petrol,62857,Manual,2,566899
+Maruti,Alto 800LXI,2015,Chennai,Petrol,22321,Manual,1,294699
+Volkswagen,AmeoHIGHLINE 1.2,2016,Hyderabad,Petrol,42970,Manual,2,502099
+Renault,Duster85 PS RXL OPT,2013,Delhi,Diesel,76169,Manual,1,407099
+Maruti,Swift DzireVXI 1.2 BS IV,2013,Delhi,Petrol,26982,Manual,1,468699
+Maruti,CelerioZXI OPT,2017,Bangalore,Petrol,8723,Manual,1,490899
+Maruti,BalenoSIGMA 1.2 K12,2016,Mumbai,Petrol,34075,Manual,1,468899
+Maruti,Alto 800LXI,2013,Chennai,Petrol,64676,Manual,1,208999
+Volkswagen,PoloCOMFORTLINE 1.2L DIESEL,2013,Chennai,Diesel,102496,Manual,2,313199
+Hyundai,Grand i10MAGNA 1.2 VTVT,2013,Delhi,Petrol,43986,Manual,1,393099
+Maruti,SX4VXI,2008,Delhi,Petrol,117930,Manual,1,222899
+Tata,ManzaELAN QUADRAJET BS IV,2012,Mumbai,Diesel,95278,Manual,2,250000
+Hyundai,i20MAGNA O 1.2,2010,Bangalore,Petrol,35088,Manual,3,366299
+Maruti,BalenoDELTA 1.2 K12,2019,Delhi,Petrol,11080,Manual,1,669799
+Maruti,SwiftVDI,2011,Bangalore,Diesel,103268,Manual,2,396099
+Hyundai,Elite i20SPORTZ 1.2,2016,Mumbai,Petrol,56445,Manual,2,554699
+Hyundai,Santro XingGL PLUS,2014,Bangalore,Petrol,51284,Manual,1,340799
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Chennai,Petrol,6840,Manual,1,458499
+Volkswagen,PoloGT TSI 1.2 PETROL AT,2017,Mumbai,Petrol,26305,Automatic,1,757599
+Datsun,Redi Go1.0 T(O),2017,Bangalore,Petrol,24376,Manual,1,354599
+Maruti,Vitara BrezzaLDI,2016,Mumbai,Diesel,64886,Manual,1,609199
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,65946,Manual,1,368899
+Maruti,Wagon R 1.0VXI,2017,Mumbai,Petrol,17971,Manual,1,406699
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2016,Mumbai,Petrol,5844,Manual,1,467599
+Hyundai,New ElantraSX 1.8 MT,2016,Mumbai,Petrol,30789,Manual,1,995000
+Maruti,RitzVXI BS IV,2013,Delhi,Petrol,88245,Manual,1,256000
+Maruti,Alto K10VXI,2011,Delhi,Petrol,20354,Manual,1,218599
+Hyundai,,2015,Bangalore,Diesel,167939,,1,778499
+Maruti,SwiftVDI,2012,Delhi,Diesel,112723,Manual,1,286999
+Maruti,BalenoSIGMA 1.2 K12,2020,Delhi,Petrol,5645,Manual,1,580499
+Maruti,ErtigaVDI ABS,2014,Mumbai,Diesel,69346,Manual,1,600000
+Maruti,Alto 800VXI,2014,Hyderabad,Petrol,167062,Manual,1,251599
+Maruti,Wagon R 1.0LXI CNG,2012,Mumbai,Petrol + CNG,88391,Manual,1,265899
+Honda,Brio1.2 VX MT I VTEC,2013,Mumbai,Petrol,31280,Manual,1,336599
+Honda,CityV MT PETROL,2017,Bangalore,Petrol,18094,Manual,1,904899
+Maruti,Alto K10VXI,2011,Delhi,Petrol,118427,Manual,1,176899
+Ford,Figo1.2 TITANIUM DURATEC,2014,Chennai,Petrol,41176,Manual,2,374999
+Mahindra,TUV300T8,2015,Mumbai,Diesel,60858,Manual,3,561199
+Renault,KwidRXL,2018,Delhi,Petrol,11978,Manual,1,363699
+Honda,CityV MT PETROL,2012,Mumbai,Petrol,66745,Manual,1,392599
+Hyundai,i10SPORTZ 1.2 KAPPA2,2011,Hyderabad,Petrol,112315,Manual,2,315099
+Renault,Kwid1.0 RXT,2016,Chennai,Petrol,29112,Manual,1,346199
+Hyundai,i10SPORTZ 1.2 KAPPA2,2012,Bangalore,Petrol,43142,Manual,1,421499
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Delhi,Petrol,33744,Manual,1,507299
+Maruti,Wagon R 1.0LXI,2012,Delhi,Petrol,94696,Manual,3,230499
+Maruti,DzireZXI AMT,2018,Delhi,Petrol,20636,Automatic,1,651899
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2016,Mumbai,Petrol,39679,Manual,1,503899
+Mahindra,TUV300T8,2016,Mumbai,Diesel,61131,Manual,1,669199
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,102746,Manual,1,332699
+Tata,NEXONXM 1.2,2019,Delhi,Petrol,11664,Manual,1,730000
+Maruti,CelerioZXI AMT,2015,Bangalore,Petrol,47139,Automatic,2,475999
+Maruti,BalenoALPHA 1.2 K12,2019,Chennai,Petrol,10381,Manual,1,731999
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,81808,Manual,1,334699
+KIA,SELTOSHTX AT PETROL,2019,Bangalore,Petrol,11448,Automatic,1,1477599
+Honda,Brio1.2 E MT I VTEC,2012,Delhi,Petrol,40489,Manual,1,231000
+Hyundai,Santro XingGLS,2007,Hyderabad,Petrol,118115,Manual,1,205499
+Hyundai,Creta1.6 E + VTVT,2017,Mumbai,Petrol,21097,Manual,1,824199
+Maruti,Eeco5 STR WITH AC PLUSHTR,2012,Bangalore,Petrol,33267,Manual,2,350299
+Maruti,S PRESSOVXI,2020,Mumbai,Petrol,8651,Manual,1,466199
+Volkswagen,PoloGT TSI 1.2 PETROL AT,2013,Delhi,Petrol,70325,Automatic,1,460000
+Ford,Figo1.4 EXI DURATORQ,2012,Bangalore,Diesel,103525,Manual,2,388599
+Maruti,Vitara BrezzaZDI,2017,Delhi,Diesel,35429,Manual,1,788599
+Maruti,Alto 800VXI,2017,Mumbai,Petrol,33832,Manual,1,332799
+Honda,CityVX MT PETROL,2018,Delhi,Petrol,48815,Manual,1,876000
+Hyundai,Elite i20SPORTZ 1.2,2017,Hyderabad,Petrol,87864,Manual,2,602599
+Tata,NEXONXZA + 1.2 PETROL A/T,2019,Mumbai,Petrol,14924,Automatic,1,889999
+Maruti,Alto 800LXI,2015,Mumbai,Petrol,30242,Manual,1,251699
+Honda,Brio1.2 EX MT I VTEC,2012,Delhi,Petrol,94039,Manual,1,248299
+Hyundai,i20SPORTZ 1.2 VTVT,2012,Bangalore,Petrol,45323,Manual,1,501799
+Hyundai,i20ASTA 1.2,2011,Bangalore,Petrol,95420,Manual,1,424999
+Volkswagen,VentoCOMFORTLINE DIESEL,2013,Mumbai,Diesel,146692,Manual,1,376699
+Maruti,SwiftVDI,2013,Delhi,Diesel,115570,Manual,2,382499
+Maruti,RitzVXI BS IV,2011,Delhi,Petrol,59945,Manual,3,265199
+Hyundai,Elite i20ASTA 1.2 (O),2015,Bangalore,Petrol,40445,Manual,2,597199
+Toyota,Innova2.5 VX 8 STR BS IV,2012,Delhi,Diesel,169590,Manual,1,641299
+Renault,KwidRXT,2016,Chennai,Petrol,35816,Manual,1,308899
+Maruti,SwiftVXI,2012,Delhi,Petrol,75081,Manual,1,387899
+Mahindra,,2018,Delhi,Diesel,20741,,1,1198999
+Maruti,BalenoZETA 1.2 K12,2016,Delhi,Petrol,54356,Manual,1,467399
+Maruti,Swift DzireVDI BS IV,2014,Delhi,Diesel,72575,Manual,1,430699
+Hyundai,i10ERA 1.1 IRDE,2010,Chennai,Petrol,69119,Manual,1,243199
+Hyundai,NEW SANTRO1.1 SPORTS AMT,2018,Hyderabad,Petrol,16286,Manual,1,486399
+Maruti,Zen EstiloLXI,2010,Bangalore,Petrol,55639,Manual,1,296699
+Maruti,Swift DzireVXI 1.2 BS IV,2013,Chennai,Petrol,84775,Manual,1,442299
+Hyundai,Santro XingGLS,2007,Hyderabad,Petrol,38392,Manual,1,201399
+Volkswagen,,2016,Mumbai,Petrol,117793,,1,580499
+Maruti,SwiftVDI,2014,Mumbai,Diesel,78579,Manual,1,507499
+Hyundai,Santro XingGLS LPG,2012,Hyderabad,Petrol + LPG,129644,Manual,2,269599
+Maruti,Swift DzireVDI BS IV,2013,Delhi,Diesel,44284,Manual,1,376999
+Hyundai,i10MAGNA 1.1 IRDE2,2014,Chennai,Petrol,35571,Manual,1,361599
+Maruti,Vitara BrezzaZDI,2017,Delhi,Diesel,77103,Manual,1,695999
+Volkswagen,PoloHIGHLINE 1.6L PETROL,2011,Mumbai,Petrol,105718,Manual,1,297299
+Honda,Amaze1.5 VXMT I DTEC,2018,Delhi,Diesel,47332,Manual,1,568499
+Renault,Kwid1.0 RXT Opt,2020,Delhi,Petrol,20528,Manual,1,440000
+Maruti,SwiftVDI,2013,Delhi,Diesel,86036,Manual,1,339599
+Maruti,BalenoZETA 1.2 K12,2018,Mumbai,Petrol,23117,Manual,1,659499
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,195769,Manual,1,406099
+Hyundai,Grand i10MAGNA 1.2 KAPPA VTVT,2018,Chennai,Petrol,32269,Manual,1,516299
+Hyundai,i10SPORTZ 1.2 AT KAPPA2,2011,Delhi,Petrol + CNG,97146,Automatic,3,200000
+Maruti,CiazDELTA 1.4 VVT,2018,Delhi,Petrol,36943,Manual,1,679499
+Maruti,Alto K10VXI,2014,Delhi,Petrol,69763,Manual,3,302899
+Honda,CityS MT PETROL,2010,Delhi,Petrol,62808,Manual,1,403199
+Maruti,CelerioVXI AMT,2016,Bangalore,Petrol,39889,Automatic,1,465799
+Maruti,RitzVXI BS IV,2011,Bangalore,Petrol,34804,Manual,1,399799
+Maruti,Swift DzireLDI BS IV,2013,Delhi,Diesel,72772,Manual,1,286499
+Honda,Amaze1.2 SMT I VTEC,2016,Delhi,Petrol,33082,Manual,1,472000
+Maruti,CelerioVXI AMT,2017,Mumbai,Petrol,6747,Automatic,1,481699
+Maruti,Wagon R 1.0VXI,2012,Bangalore,Petrol,53437,Manual,1,482499
+Hyundai,Grand i10MAGNA 1.2 VTVT,2018,Chennai,Petrol,19266,Manual,1,477899
+Maruti,SwiftVXI,2015,Mumbai,Petrol,80352,Manual,2,464799
+Maruti,CelerioZXI,2016,Delhi,Petrol,4093,Manual,1,397199
+Maruti,S CrossDELTA 1.6,2015,Mumbai,Diesel,75162,Manual,1,573799
+Maruti,CelerioZXI AMT,2016,Hyderabad,Petrol,60903,Automatic,2,407599
+Mahindra,ScorpioS11,2018,Delhi,Diesel,85283,Manual,2,1296499
+Maruti,Alto K10VXI,2016,Mumbai,Petrol,21933,Manual,1,315499
+Hyundai,NEW SANTRO1.1 MAGNA MT,2019,Delhi,Petrol,8632,Manual,1,453999
+Maruti,Wagon R 1.0VXI AMT,2018,Delhi,Petrol,25823,Automatic,2,452999
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,90249,Manual,1,311699
+Maruti,Wagon R 1.0VXI,2017,Mumbai,Petrol,20577,Manual,1,395899
+Maruti,CelerioZXI,2020,Delhi,Petrol,5659,Manual,1,487199
+Honda,Jazz1.2 V MT,2017,Hyderabad,Petrol,34743,Manual,1,571299
+Hyundai,Elite i20SPORTZ 1.2,2017,Hyderabad,Petrol,19301,Manual,1,653099
+Maruti,BalenoDELTA 1.2 K12,2018,Chennai,Petrol,28264,Manual,2,618199
+Maruti,Zen EstiloLXI,2009,Bangalore,Petrol,70598,Manual,1,223499
+Maruti,AltoLXI,2008,Delhi,Petrol,80814,Manual,1,122299
+Volkswagen,PassatCOMFORTLINE DSG,2011,Mumbai,Diesel,57893,Automatic,2,650000
+Maruti,Swift DzireVXI 1.3,2009,Mumbai,Petrol,33532,Manual,1,309499
+Hyundai,Elite i20ERA 1.2,2015,Chennai,Petrol,9580,Manual,1,464499
+Maruti,SwiftVDI AMT,2018,Chennai,Diesel,66411,Automatic,1,656999
+Maruti,Alto K10VXI,2013,Mumbai,Petrol,43203,Manual,2,238399
+Maruti,Swift DzireZXI 1.2 BS IV,2016,Hyderabad,Petrol,33459,Manual,1,664799
+Hyundai,i20SPORTZ 1.4 CRDI,2012,Delhi,Diesel,122256,Manual,1,285899
+Maruti,Swift DzireZDI,2015,Delhi,Diesel,106941,Manual,1,428299
+Toyota,Fortuner3.0 MT 4X4,2010,Mumbai,Diesel,137624,Manual,2,810000
+Ford,Ecosport1.5 TREND TDCI,2018,Delhi,Diesel,92621,Manual,1,657099
+Hyundai,VernaFLUIDIC 1.6 SX VTVT,2013,Bangalore,Petrol,51051,Manual,3,574899
+Maruti,BalenoDELTA 1.2 K12,2018,Delhi,Petrol,31514,Manual,1,569699
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,41405,Manual,1,562699
+Maruti,Vitara BrezzaZDI,2016,Delhi,Diesel,105991,Manual,1,670799
+Mercedes,Benz C ClassC220 CDI GRAND EDITION,2014,Mumbai,Diesel,97979,Automatic,1,1210499
+Hyundai,VernaFLUIDIC 1.6 SX VTVT OPT,2014,Mumbai,Petrol,68191,Manual,2,446099
+Honda,Brio1.2 V MT I VTEC,2012,Mumbai,Petrol,33456,Manual,2,346899
+Maruti,CelerioZXI OPT AMT,2017,Chennai,Petrol,41037,Automatic,2,451999
+Fiat,Grand PuntoEMOTION 1.3,2011,Mumbai,Diesel,108600,Manual,1,145799
+Maruti,BalenoDELTA 1.2 K12,2019,Delhi,Petrol,14295,Manual,1,614099
+Honda,CityV MT PETROL,2009,Mumbai,Petrol,88646,Manual,2,225000
+Mahindra,XyloH4 ABS BS IV,2018,Mumbai,Diesel,49616,Manual,1,620199
+Nissan,TerranoXV D THP PREMIUM 110 PS,2013,Delhi,Diesel,62600,Manual,2,505299
+Toyota,Etios LivaG,2011,Bangalore,Petrol,33609,Manual,1,401799
+Hyundai,i10MAGNA 1.2,2009,Hyderabad,Petrol,66427,Manual,2,232799
+Maruti,SwiftVXI 1.3,2008,Hyderabad,Petrol,84544,Manual,1,310199
+Maruti,CelerioVXI,2015,Delhi,Petrol,100098,Manual,1,262699
+Nissan,MicraXL CVT (PETROL),2015,Chennai,Petrol,60375,Automatic,1,439999
+Maruti,SX4VXI,2009,Mumbai,Petrol,74713,Manual,1,199000
+Hyundai,i10MAGNA 1.2 KAPPA2,2011,Hyderabad,Petrol,70969,Manual,1,320699
+Volkswagen,PoloCOMFORTLINE 1.2L PETROL,2011,Delhi,Petrol,61129,Manual,2,219999
+Maruti,Vitara BrezzaZDI + AMT,2018,Delhi,Diesel,15077,Automatic,1,957299
+Honda,Brio1.2 S MT I VTEC,2012,Mumbai,Petrol,52789,Manual,1,271199
+Honda,Amaze1.2 SMT I VTEC,2015,Delhi,Petrol,32655,Manual,1,383299
+Chevrolet,AveoLT 1.4,2010,Delhi,Petrol,43368,Manual,1,139000
+Maruti,DzireVDI AMT,2017,Chennai,Diesel,37607,Automatic,1,632699
+Maruti,SwiftVXI OPT,2017,Mumbai,Petrol,16498,Manual,1,579199
+Maruti,CelerioZXI OPT,2014,Mumbai,Petrol,30338,Manual,1,350699
+Hyundai,i10MAGNA 1.2 KAPPA2,2012,Delhi,Petrol,44703,Manual,1,321499
+Maruti,Vitara BrezzaVDI,2018,Delhi,Diesel,40228,Manual,1,852299
+Maruti,SwiftVXI,2014,Mumbai,Petrol,28543,Manual,1,401699
+Hyundai,EonERA PLUS (O),2016,Delhi,Petrol,15311,Manual,1,397399
+Maruti,Wagon R 1.0LXI CNG,2011,Delhi,Petrol + CNG,88841,Manual,2,192919
+Honda,CityV AT,2010,Hyderabad,Petrol,93900,Automatic,1,448599
+Maruti,Swift DzireVDI BS IV,2014,Delhi,Diesel,108818,Manual,2,559999
+Maruti,CiazZETA 1.4 VVT,2018,Mumbai,Petrol,30737,Manual,2,671999
+Maruti,,2017,Delhi,Petrol,20764,,2,360999
+Maruti,Swift DzireVDI,2009,Mumbai,Diesel,88430,Manual,1,308599
+Maruti,BalenoDELTA 1.2 K12,2016,Mumbai,Petrol,10229,Manual,1,551799
+Mercedes,Benz E ClassE 220 CDI ELEGANCE,2012,Mumbai,Diesel,66918,Manual,1,1018000
+Maruti,Wagon R 1.0LXI,2013,Chennai,Petrol,122480,Manual,2,323799
+Toyota,EtiosV,2011,Mumbai,Petrol,66145,Manual,1,312999
+Honda,Amaze1.5 SX MT I DTEC,2014,Mumbai,Diesel,54831,Manual,1,382699
+Maruti,Swift DzireVXI,2010,Mumbai,Petrol,106567,Manual,3,219799
+Maruti,Swift DzireVXI 1.2 BS IV,2012,Mumbai,Petrol,8707,Manual,1,451000
+Honda,CitySV CVT PETROL,2016,Delhi,Petrol,84557,Automatic,1,659699
+Maruti,CelerioZXI OPT,2017,Bangalore,Petrol,26716,Manual,1,489899
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,103359,Manual,1,395799
+Maruti,Alto 800LXI,2015,Delhi,Petrol,9217,Manual,1,278899
+Datsun,Go PlusT,2015,Bangalore,Petrol,58924,Manual,2,317399
+Audi,,2014,Delhi,Diesel,65508,,2,1600000
+Honda,Amaze1.2 EMT I VTEC,2015,Delhi,Petrol,57506,Manual,1,300000
+Maruti,Wagon R 1.0VXI,2016,Mumbai,Petrol,46047,Manual,2,337299
+Hyundai,i10SPORTZ 1.2,2008,Delhi,Petrol,66404,Manual,1,178999
+Ford,Ecosport1.5 TDCI TITANIUM PLUS,2017,Chennai,Diesel,59953,Manual,2,722999
+Volkswagen,VentoHIGHLINE DIESEL,2011,Mumbai,Diesel,112734,Manual,1,298299
+Hyundai,i10SPORTZ 1.2,2010,Mumbai,Petrol,50705,Manual,1,221899
+Tata,TiagoXE 1.2 REVOTRON,2019,Chennai,Petrol,24829,Manual,1,439999
+Tata,HexaVaricor 400 XTA,2017,Mumbai,Diesel,30763,Automatic,1,1245499
+Maruti,Alto K10VXI,2011,Delhi,Petrol,51523,Manual,1,233999
+Hyundai,i10MAGNA 1.2,2009,Chennai,Petrol,110247,Manual,1,278799
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,63642,Manual,1,401199
+Maruti,DzireVDI,2018,Chennai,Diesel,48029,Manual,1,668699
+Honda,Amaze1.2 VXMT I VTEC,2013,Delhi,Petrol,147498,Manual,1,384599
+Skoda,Octavia2.0 TDI STYLE PLUS AT,2015,Chennai,Diesel,55469,Automatic,1,1365799
+Ford,Figo1.4 TITANIUM DURATORQ,2014,Mumbai,Diesel,76291,Manual,1,320000
+Maruti,Alto 800LXI,2018,Delhi,Petrol,23900,Manual,1,289499
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,126579,Manual,1,351899
+Honda,WR-V1.2 i-VTEC VX MT,2017,Mumbai,Petrol,37386,Manual,1,706199
+Maruti,CelerioVXI,2014,Bangalore,Petrol,84223,Manual,1,386699
+Maruti,ErtigaZXI,2018,Mumbai,Petrol,40893,Manual,1,790000
+Hyundai,i10MAGNA 1.2 KAPPA2,2011,Hyderabad,Petrol,93562,Manual,2,283399
+Maruti,CiazSIGMA 1.3 DDIS SHVS,2017,Chennai,Diesel,87908,Manual,1,637599
+Hyundai,Grand i10MAGNA 1.2 VTVT,2013,Chennai,Petrol,57716,Manual,2,397499
+Maruti,Wagon R 1.0VXI,2014,Delhi,Petrol,17178,Manual,1,327699
+Hyundai,Grand i10MAGNA 1.2 KAPPA VTVT,2016,Bangalore,Petrol,18546,Manual,2,502799
+Maruti,Swift DzireVXI 1.2 BS IV,2013,Delhi,Petrol,104974,Manual,1,413699
+Honda,Jazz1.2 SV MT,2018,Chennai,Petrol,27869,Manual,1,631599
+Maruti,Omni5 SEATER,2009,Bangalore,Petrol,16094,Manual,1,177699
+Maruti,A StarVXI,2013,Bangalore,Petrol,66956,Manual,2,269299
+Maruti,S CrossZETA 1.6,2015,Mumbai,Diesel,110006,Manual,1,609299
+Maruti,Swift DzireVDI BS IV,2012,Mumbai,Diesel,133678,Manual,1,415599
+Hyundai,,2017,Mumbai,Petrol,13843,,1,572000
+Skoda,FabiaAMBITION PLUS 1.2 MPI,2013,Mumbai,Petrol,28195,Manual,2,285000
+Maruti,Swift DzireVXI 1.2 BS IV,2012,Chennai,Petrol,68105,Manual,1,414499
+Maruti,BalenoDELTA 1.2 K12,2015,Bangalore,Petrol,157108,Manual,1,494899
+Hyundai,Creta1.6 E + VTVT,2017,Mumbai,Petrol,26413,Manual,1,802599
+Maruti,SwiftVDI,2013,Delhi,Diesel,118272,Manual,3,332899
+Toyota,Innova2.5 GX 7 STR BS IV,2014,Delhi,Diesel,190850,Manual,1,626599
+Hyundai,Creta1.6 CRDI SX PLUS AUTO,2017,Delhi,Diesel,80682,Automatic,1,970399
+Maruti,Wagon R 1.0LXI,2012,Delhi,Petrol,34131,Manual,2,230000
+Ford,Ecosport1.5TITANIUM TDCI,2013,Chennai,Diesel,84769,Manual,1,505099
+MG,,2019,Delhi,Petrol,83351,,1,1462599
+Maruti,Wagon R 1.0VXI,2016,Delhi,Petrol,94773,Manual,1,391699
+Honda,CityS MT PETROL,2010,Delhi,Petrol,188375,Manual,1,341999
+Maruti,Alto 800LXI,2016,Delhi,Petrol,21305,Manual,1,314699
+Tata,,2019,Bangalore,Petrol,13985,,1,615799
+Maruti,Zen EstiloVXI,2010,Bangalore,Petrol,34861,Manual,1,235199
+Hyundai,i10MAGNA 1.2 KAPPA2,2011,Hyderabad,Petrol,73867,Manual,1,280799
+Maruti,RitzVXI BS IV,2012,Hyderabad,Petrol,24079,Manual,1,367099
+Maruti,Swift DzireVDI BS IV,2014,Delhi,Diesel,111261,Manual,2,414999
+Maruti,IGNISZETA 1.2 K12 AMT,2017,Delhi,Petrol,11255,Automatic,1,552000
+Hyundai,i10MAGNA 1.2 KAPPA2,2010,Delhi,Petrol,253637,Manual,1,192799
+Maruti,DzireVDI,2019,Mumbai,Diesel,36803,Manual,1,841000
+Maruti,Vitara BrezzaVDI,2019,Delhi,Diesel,75243,Manual,1,725799
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,82064,Manual,1,346799
+Maruti,Alto 800LXI CNG,2016,Delhi,Petrol + CNG,72036,Manual,1,301899
+Maruti,Vitara BrezzaVDI OPT,2017,Delhi,Diesel,21098,Manual,1,716295
+Maruti,Wagon RLXI,2010,Chennai,Petrol,91376,Manual,1,238599
+Honda,Amaze1.2 SMT I VTEC,2014,Mumbai,Petrol,146858,Manual,1,403299
+Honda,Amaze1.5 SMT I DTEC,2013,Delhi,Diesel,82877,Manual,3,334299
+Volkswagen,PoloCOMFORTLINE 1.2L PETROL,2011,Mumbai,Petrol,38579,Manual,1,297399
+Toyota,,2021,Mumbai,Petrol,7649,,1,949699
+Volkswagen,VentoCOMFORTLINE DIESEL,2012,Mumbai,Diesel,141845,Manual,1,350000
+Hyundai,Grand i10SPORTS 1.2 VTVT,2015,Bangalore,Petrol,44013,Manual,1,458499
+Hyundai,Santro XingGL,2010,Bangalore,Petrol,67770,Manual,3,223599
+Hyundai,i20ASTA 1.4 CRDI,2012,Delhi,Diesel,108007,Manual,2,309299
+Maruti,RitzVDI,2012,Delhi,Diesel,123546,Manual,1,218399
+Maruti,SwiftVDI,2015,Chennai,Diesel,117209,Manual,1,444099
+Maruti,CiazZETA 1.4 VVT,2018,Delhi,Petrol,9718,Manual,1,850000
+Hyundai,EonD LITE PLUS,2012,Mumbai,Petrol,14795,Manual,1,204000
+Maruti,Swift DzireVXI 1.2 BS IV,2014,Mumbai,Petrol,24035,Manual,1,486000
+Maruti,Vitara BrezzaVDI AMT,2019,Mumbai,Diesel,17690,Manual,1,872099
+Mahindra,XUV500W6 4X2,2015,Mumbai,Diesel,42995,Manual,1,850099
+Maruti,BalenoDELTA 1.2 K12,2020,Delhi,Petrol,3920,Manual,1,652799
+Hyundai,Santro XingGL,2008,Delhi,Petrol,33246,Manual,1,138000
+Maruti,ErtigaVDI SHVS LIMITED EDITION,2018,Mumbai,Diesel,35137,Manual,1,1012062
+Toyota,Innova2.5 GX 8 STR BS IV,2013,Mumbai,Diesel,147140,Manual,1,737199
+Maruti,Swift DzireLXI 1.2 BS IV,2015,Bangalore,Petrol,46783,Manual,1,438399
+Maruti,Vitara BrezzaZDI PLUS,2017,Delhi,Diesel,28125,Manual,1,873399
+Maruti,BalenoDELTA 1.2 K12,2017,Delhi,Petrol,29233,Manual,1,622799
+Maruti,Alto K10VXI,2012,Hyderabad,Petrol,56712,Manual,1,260499
+Toyota,Fortuner2.8 4x2 AT,2016,Mumbai,Diesel,146630,Automatic,1,2282499
+Honda,Brio1.2 S MT I VTEC,2012,Mumbai,Petrol,42049,Manual,1,320399
+Maruti,BalenoSIGMA 1.2 K12,2018,Chennai,Petrol,60604,Manual,1,533799
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2016,Mumbai,Petrol,35269,Manual,1,475000
+Maruti,Alto K10LXI,2017,Delhi,Petrol,32669,Manual,1,299199
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Hyderabad,Petrol,9128,Manual,1,493799
+Maruti,SwiftVDI,2018,Delhi,Diesel,37926,Manual,1,634899
+Hyundai,Creta1.6 SX PLUS AUTO PETROL,2017,Mumbai,Petrol,44702,Automatic,1,1100000
+Maruti,Wagon R 1.0VXI,2015,Chennai,Petrol,65229,Manual,1,418299
+Maruti,SwiftVXI,2017,Chennai,Petrol,35330,Manual,1,571099
+Maruti,S CrossZETA 1.3,2017,Hyderabad,Diesel,120461,Manual,1,732231
+Maruti,CelerioZXI,2019,Mumbai,Petrol,3762,Manual,1,535599
+Maruti,Swift DzireVDI BS IV,2013,Delhi,Diesel,39947,Manual,1,393299
+Honda,Jazz1.2 X I VTEC,2012,Delhi,Petrol,32514,Manual,2,358599
+Maruti,Vitara BrezzaVDI,2019,Chennai,Diesel,24368,Manual,1,828999
+Hyundai,i20MAGNA 1.4 CRDI,2013,Delhi,Diesel,81344,Manual,2,313699
+Maruti,AltoLXI,2020,Delhi,Petrol,2723,Manual,1,359499
+Honda,Amaze1.5 EMT I DTEC,2014,Delhi,Diesel,95697,Manual,1,342099
+Maruti,SwiftVDI,2011,Mumbai,Diesel,175435,Manual,1,317899
+Maruti,Vitara BrezzaZDI + AMT,2018,Mumbai,Diesel,62859,Automatic,1,958980
+Honda,Amaze1.2 EMT I VTEC,2013,Delhi,Petrol,53024,Manual,3,351299
+Maruti,CelerioVXI CNG,2020,Delhi,Petrol + CNG,30164,Manual,1,465000
+Maruti,Swift DzireZXI 1.2 BS IV,2015,Hyderabad,Petrol,106675,Manual,1,504499
+Toyota,,2008,Mumbai,Petrol,222344,,2,264099
+Maruti,Alto K10VXI,2013,Hyderabad,Petrol,61444,Manual,2,241599
+Honda,Amaze1.5 VXMT I DTEC,2013,Delhi,Diesel,136993,Manual,1,417199
+Maruti,IGNISDELTA 1.2 K12,2020,Delhi,Petrol,5061,Manual,1,593999
+Renault,Duster85 PS RXL OPT,2014,Delhi,Diesel,81355,Manual,1,491499
+Hyundai,VENUESX 1.0 GDI IMT,2020,Mumbai,Petrol,3843,Manual,1,1057199
+Renault,KwidRXL,2018,Delhi,Petrol,50104,Manual,1,309000
+Maruti,Wagon R 1.0VXI,2011,Bangalore,Petrol,29575,Manual,1,404199
+Maruti,SwiftLXI OPT,2016,Bangalore,Petrol,35352,Manual,1,523999
+Toyota,Etios LivaGD,2012,Delhi,Diesel,94952,Manual,1,262599
+Maruti,Eeco5 STR CNG WITH AC PLUSHTR,2018,Delhi,Petrol + CNG,56490,Manual,1,353199
+Mahindra,XUV500W10,2017,Mumbai,Diesel,70639,Manual,2,1276299
+Honda,Amaze1.5 EXMT I DTEC,2013,Delhi,Diesel,75953,Manual,1,258099
+Maruti,Wagon R 1.0VXI,2015,Delhi,Petrol,22286,Manual,2,375999
+Hyundai,Elite i201.2 MAGNA PLUS VTVT,2019,Mumbai,Petrol,6612,Manual,1,667899
+Hyundai,Elite i20ASTA 1.2,2015,Delhi,Petrol,97701,Manual,1,537899
+Maruti,Alto K10LXI,2011,Delhi,Petrol,70345,Manual,1,220799
+Maruti,Alto 800LXI,2018,Delhi,Petrol,7496,Manual,1,341699
+Hyundai,Grand i10ASTA AT 1.2 KAPPA VTVT,2015,Bangalore,Petrol,35879,Manual,2,493599
+Maruti,Wagon R 1.0VXI,2012,Chennai,Petrol,60795,Manual,1,306499
+Mercedes,Benz E ClassE 220 CDI ELEGANCE,2012,Delhi,Diesel,152276,Manual,2,865099
+Honda,BR-V1.5 i-VTEC V CVT,2018,Mumbai,Petrol,26128,Automatic,1,945000
+Honda,Brio1.2 V MT I VTEC,2012,Mumbai,Petrol,36244,Manual,1,331499
+Tata,TiagoXZ 1.2 REVOTRON,2016,Chennai,Petrol,42986,Manual,1,435499
+Honda,Brio1.2 S MT I VTEC,2013,Hyderabad,Petrol,62124,Manual,1,341699
+Hyundai,,2018,Delhi,Diesel,43362,,1,1023399
+Maruti,Alto 800LXI,2016,Mumbai,Petrol,18780,Manual,1,293699
+Maruti,SwiftVDI,2012,Delhi,Diesel,82585,Manual,1,309799
+Mercedes,Benz CLA ClassCLA 200 CDI SPORT,2015,Mumbai,Diesel,109092,Manual,2,1912899
+Maruti,AltoLXI,2012,Bangalore,Petrol,39773,Manual,2,258799
+Tata,TiagoXZ 1.2 REVOTRON,2018,Chennai,Petrol,15225,Manual,1,522099
+Nissan,SunnyXV DIESEL,2012,Mumbai,Diesel,118754,Manual,2,273299
+Renault,KwidRXT,2016,Mumbai,Petrol,48597,Manual,2,286799
+Maruti,Alto K10LXI,2010,Chennai,Petrol,42198,Manual,1,216799
+Maruti,SwiftVDI,2013,Mumbai,Diesel,128399,Manual,1,373699
+Maruti,Alto K10VXI,2013,Mumbai,Petrol,23826,Manual,1,234399
+Hyundai,i10ASTA 1.2 KAPPA2,2011,Mumbai,Petrol,43831,Manual,2,301999
+Maruti,Alto 800LXI,2014,Delhi,Petrol,54362,Manual,1,257499
+Maruti,RitzVDI,2013,Delhi,Diesel,70687,Manual,1,284299
+Jeep,Compass2.0 LIMITED,2017,Delhi,Diesel,74959,Manual,1,1241899
+Renault,Duster85 PS RXE,2013,Chennai,Diesel,173978,Manual,3,514299
+Hyundai,i10MAGNA 1.1 IRDE2,2011,Mumbai,Petrol,52097,Manual,1,260000
+Maruti,CelerioZXI AMT,2017,Bangalore,Petrol,24647,Automatic,1,522699
+Maruti,RitzVDI,2015,Delhi,Diesel,22091,Manual,1,369099
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2015,Bangalore,Petrol,19346,Manual,1,477699
+Honda,JazzVX  1.2,2016,Mumbai,Petrol,46051,Manual,2,521699
+Hyundai,XcentSX 1.2 OPT,2014,Delhi,Petrol,39288,Manual,1,433199
+Hyundai,Santro XingGLS,2008,Bangalore,Petrol,67059,Manual,3,192299
+Tata,AriaPURE LX 4X2,2015,Delhi,Diesel,68225,Manual,2,395000
+Toyota,EtiosVX,2011,Delhi,Petrol,49654,Manual,2,362399
+Maruti,Alto 800VXI,2018,Chennai,Petrol,17703,Manual,2,352899
+Maruti,CiazZDI,2015,Delhi,Diesel,99290,Manual,1,492499
+Hyundai,i10MAGNA 1.2 KAPPA2,2010,Mumbai,Petrol,41923,Manual,2,225099
+Hyundai,Elite i20Magna Executive 1.2,2017,Delhi,Petrol,31907,Manual,1,605699
+Maruti,SwiftVXI,2019,Chennai,Petrol,1890,Manual,2,635099
+Volkswagen,VentoHIGHLINE PETROL,2014,Mumbai,Petrol,93629,Manual,1,387099
+Hyundai,i20ASTA 1.4 CRDI,2014,Delhi,Diesel,88666,Manual,2,429099
+Renault,Duster85 PS RXL,2012,Delhi,Diesel,97044,Manual,2,352399
+Volkswagen,PoloCOMFORTLINE 1.2L DIESEL,2012,Mumbai,Diesel,95549,Manual,2,265199
+Maruti,Wagon R 1.0LXI CNG,2013,Hyderabad,Petrol + CNG,51098,Manual,1,353799
+Maruti,Swift DzireVDI BS IV,2013,Hyderabad,Diesel,85864,Manual,2,477399
+Maruti,SwiftVDI,2019,Hyderabad,Diesel,43074,Manual,2,660199
+Honda,CityVX MT DIESEL,2014,Delhi,Diesel,81642,Manual,1,573699
+Mahindra,TUV300T8,2016,Bangalore,Diesel,49059,Manual,1,811299
+Maruti,AltoLXI,2012,Chennai,Petrol,87280,Manual,1,238599
+Renault,KwidRXE,2016,Delhi,Petrol,49601,Manual,1,245000
+Maruti,SwiftVXI 1.3,2008,Hyderabad,Petrol,95854,Manual,2,296299
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2017,Mumbai,Petrol,5766,Manual,1,511999
+Hyundai,i10SPORTZ 1.2 KAPPA2,2013,Bangalore,Petrol,16089,Manual,2,417399
+Maruti,Eeco5 STR CNG WITH AC PLUSHTR,2019,Mumbai,Petrol + CNG,9679,Manual,1,541000
+Maruti,ErtigaZDI,2015,Delhi,Diesel,65754,Manual,1,603000
+Skoda,LauraAMBIENTE 1.8 TSI,2010,Mumbai,Petrol,81732,Manual,2,240000
+Maruti,Swift DzireVXI AMT,2014,Mumbai,Petrol,56818,Automatic,1,378399
+Maruti,Wagon R 1.0VXI,2017,Chennai,Petrol,18782,Manual,2,423899
+Mahindra,XUV500W9,2018,Delhi,Diesel,45825,Manual,2,1401699
+Maruti,Vitara BrezzaVDI,2019,Delhi,Diesel,24974,Manual,1,823499
+Hyundai,Elite i20SPORTZ 1.2,2017,Mumbai,Petrol,4249,Manual,1,657199
+Mercedes,Benz E ClassE 220 CDI ELEGANCE,2013,Delhi,Diesel,66446,Automatic,2,1293899
+Hyundai,Grand i10MAGNA 1.2 KAPPA VTVT,2015,Delhi,Petrol,46269,Manual,1,388899
+Hyundai,EonSPORTZ,2013,Mumbai,Petrol,45213,Manual,2,219000
+Maruti,Wagon R 1.0VXI,2013,Mumbai,Petrol,49645,Manual,1,336099
+Maruti,Vitara BrezzaVDI AMT,2018,Hyderabad,Diesel,81477,Manual,2,861499
+Mitsubishi,Pajero Sport2.5 AT 4X2,2017,Mumbai,Diesel,42036,Automatic,1,1875000
+Maruti,Alto K10VXI,2013,Delhi,Petrol,17374,Manual,1,287499
+Hyundai,i10MAGNA 1.2 KAPPA2,2010,Bangalore,Petrol,62936,Manual,1,335699
+Maruti,Alto K10VXI,2014,Bangalore,Petrol,34163,Manual,2,354499
+Mahindra,XUV500W10 FWD,2017,Delhi,Diesel,93769,Manual,1,1126799
+Renault,KwidRXL,2016,Bangalore,Petrol,20399,Manual,1,298999
+Maruti,Alto K10VXI,2016,Delhi,Petrol,50112,Manual,2,290000
+Jeep,Compass2.0 LIMITED,2017,Mumbai,Diesel,25491,Manual,2,1544499
+Maruti,DzireVDI AMT,2017,Chennai,Diesel,66343,Automatic,1,601499
+Toyota,Etios LivaGD,2012,Delhi,Diesel,160408,Manual,1,265199
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,122515,Manual,1,405499
+Maruti,RitzVDI,2012,Delhi,Diesel,109107,Manual,1,238199
+Maruti,RitzVDI,2012,Mumbai,Diesel,104517,Manual,1,300399
+Toyota,Innova2.5 VX 8 STR BS IV,2012,Chennai,Diesel,115553,Manual,2,892699
+Hyundai,i10SPORTZ 1.2 KAPPA2,2010,Mumbai,Petrol,28925,Manual,2,226699
+Maruti,ErtigaVDI,2015,Mumbai,Diesel,83771,Manual,1,608599
+Honda,Brio1.2 S MT I VTEC,2012,Delhi,Petrol,96609,Manual,2,267799
+Maruti,Wagon R 1.0VXI,2016,Delhi,Petrol,45306,Manual,1,375000
+Maruti,Swift DzireVDI BS IV,2012,Bangalore,Diesel,116929,Manual,1,493299
+Hyundai,i10MAGNA 1.2,2010,Bangalore,Petrol,43890,Manual,2,306399
+Hyundai,i20SPORTZ 1.2 O,2012,Delhi,Petrol,106458,Manual,1,246799
+Honda,CityS MT PETROL,2011,Mumbai,Petrol,101973,Manual,2,343299
+BMW,3 Series320D LUXURYLINE,2014,Mumbai,Diesel,75353,Automatic,3,1603199
+Hyundai,Creta1.6 SX (O) CRDI,2015,Delhi,Diesel,113657,Manual,1,840399
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Bangalore,Petrol,6081,Manual,1,485099
+Maruti,SwiftVDI,2013,Delhi,Diesel,58850,Manual,1,336799
+Hyundai,i20 Active1.2 SX,2016,Chennai,Petrol,46635,Manual,1,695199
+Hyundai,Grand i10ASTA 1.2 VTVT,2017,Mumbai,Petrol,88747,Manual,1,460499
+Maruti,SwiftVXI,2014,Bangalore,Petrol,75751,Manual,2,536899
+Hyundai,Elite i20ASTA 1.4 CRDI,2017,Chennai,Diesel,41729,Manual,1,679599
+Hyundai,Creta1.6 SX PLUS AUTO PETROL,2016,Mumbai,Petrol,22041,Automatic,1,974899
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2016,Chennai,Petrol,77847,Manual,1,431599
+Maruti,Wagon R 1.0VXI,2011,Chennai,Petrol,78170,Manual,1,326199
+Maruti,Vitara BrezzaZDI,2016,Delhi,Diesel,72994,Manual,1,674399
+Tata,TiagoXZ 1.2 REVOTRON,2018,Delhi,Petrol,7927,Manual,1,515299
+Hyundai,NEW SANTRO1.1 SPORTS AMT,2018,Bangalore,Petrol,17323,Manual,1,550499
+Mahindra,XyloH4 ABS BS IV,2017,Chennai,Diesel,63953,Manual,1,739999
+Hyundai,AccentEXECUTIVE GLE,2011,Mumbai,Petrol,58344,Manual,1,142099
+Honda,CityV MT DIESEL,2014,Mumbai,Diesel,101866,Manual,2,515599
+Hyundai,Elite i20SPORTZ 1.2,2017,Delhi,Petrol,19330,Manual,2,569499
+Honda,Jazz1.2 V AT,2015,Delhi,Petrol,87341,Automatic,2,454799
+Toyota,Innova2.5 VX 7 STR BS IV,2013,Mumbai,Diesel,166968,Manual,1,890000
+Ford,Figo1.4 ZXI DURATORQ,2012,Mumbai,Diesel,66414,Manual,1,195000
+Maruti,BalenoALPHA 1.2 K12,2018,Mumbai,Petrol,38644,Manual,1,698999
+Hyundai,VernaFLUIDIC 1.6 SX VTVT OPT,2012,Mumbai,Petrol,42231,Manual,1,449399
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Mumbai,Petrol,70649,Manual,1,435199
+Maruti,BalenoALPHA 1.2 K12,2017,Hyderabad,Petrol,26065,Manual,2,680899
+Hyundai,Elite i20ASTA 1.2 (O),2017,Bangalore,Petrol,41590,Manual,2,739899
+Maruti,,2016,Delhi,Diesel,55768,,2,572399
+Maruti,BalenoALPHA 1.2 K12,2018,Mumbai,Petrol,14988,Manual,3,646599
+Hyundai,i10ERA 1.1 IRDE,2011,Mumbai,Petrol,35963,Manual,1,220000
+Hyundai,,2017,Chennai,Diesel,112774,,1,897399
+Hyundai,i10SPORTZ 1.2 KAPPA2,2013,Chennai,Petrol,74657,Manual,3,330399
+Maruti,Alto K10VXI,2015,Mumbai,Petrol,34049,Manual,1,325199
+Toyota,EtiosGD,2013,Mumbai,Diesel,74221,Manual,1,381099
+Maruti,Vitara BrezzaVDI OPT,2017,Delhi,Diesel,81371,Manual,1,653000
+Mercedes,Benz C Class200 K ELEGANCE AT,2009,Mumbai,Petrol,65805,Automatic,2,475000
+Hyundai,Grand i10MAGNA 1.2 VTVT,2018,Bangalore,Petrol,31782,Manual,1,466599
+Honda,Brio1.2 S MT I VTEC,2013,Mumbai,Petrol,53853,Manual,2,303699
+Ford,Ecosport1.5 AMBIENTE TDCI,2014,Delhi,Diesel,147997,Manual,1,455899
+Maruti,SwiftVDI,2013,Delhi,Diesel,113429,Manual,1,345199
+Renault,KwidRXL,2016,Mumbai,Petrol,20385,Manual,1,263399
+Maruti,,2017,Bangalore,Petrol,16032,,1,408899
+Maruti,Alto K10VXI,2012,Bangalore,Petrol,43367,Manual,2,277699
+Maruti,Vitara BrezzaLDI OPT,2017,Delhi,Diesel,64966,Manual,1,692999
+Renault,Duster85 PS RXE,2016,Delhi,Diesel,66041,Manual,2,553799
+Maruti,SwiftVXI,2014,Delhi,Petrol,71876,Manual,1,389699
+Maruti,Vitara BrezzaZDI PLUS DUAL TONE,2018,Delhi,Diesel,46874,Manual,1,835899
+Maruti,Swift DzireVDI BS IV,2012,Mumbai,Diesel,118249,Manual,3,385299
+Maruti,CelerioZXI,2018,Delhi,Petrol,33585,Manual,1,495599
+Maruti,Alto K10LXI,2015,Delhi,Petrol,10957,Manual,1,308899
+Honda,Jazz1.2 SELECT I VTEC,2010,Delhi,Petrol,53744,Manual,1,275000
+Hyundai,Grand i10SPORTS 1.2 VTVT,2017,Delhi,Petrol,24487,Manual,1,488999
+Honda,CityZX CVT,2017,Delhi,Petrol,19456,Automatic,1,1050000
+Hyundai,EonD LITE PLUS,2013,Delhi,Petrol,106269,Manual,1,228699
+Maruti,Alto K10VXI OPT,2015,Delhi,Petrol,6312,Manual,1,323299
+Hyundai,EonMAGNA PLUS,2015,Delhi,Petrol,20494,Manual,1,290000
+Renault,Lodgy110 PS RXZ 8 STR,2015,Mumbai,Diesel,34812,Manual,1,488799
+Hyundai,i10SPORTZ 1.2,2008,Mumbai,Petrol,30958,Manual,1,215699
+Tata,,2019,Hyderabad,Petrol,24296,,1,597899
+Maruti,Swift DzireLDI OPT,2016,Delhi,Diesel,76827,Manual,1,500199
+Maruti,Alto K10VXI,2017,Hyderabad,Petrol,68637,Manual,2,367399
+Chevrolet,Sail UVA1.3 LT ABS,2014,Mumbai,Diesel,59403,Manual,2,286000
+Hyundai,i10ASTA 1.2 KAPPA2,2013,Chennai,Petrol,115427,Manual,1,263699
+Maruti,Alto 800VXI,2018,Delhi,Petrol,34367,Manual,1,300000
+Hyundai,XcentS 1.2 OPT,2015,Mumbai,Petrol + CNG,82445,Manual,2,378699
+Maruti,ErtigaVXI,2017,Mumbai,Petrol,18181,Manual,1,829437
+Hyundai,Elite i20SPORTZ 1.2,2017,Mumbai,Petrol,14300,Manual,1,595199
+MG,HECTORSHARP DCT PETROL,2019,Mumbai,Petrol,14900,Automatic,1,1788699
+Maruti,AltoLXI,2009,Delhi,Petrol,35919,Manual,1,176699
+Maruti,S CrossALPHA 1.6,2016,Delhi,Diesel,117222,Manual,1,615799
+Maruti,SwiftZDI +,2018,Bangalore,Diesel,51512,Manual,1,752299
+Mercedes,Benz A ClassA180 SPORT PETROL,2013,Delhi,Petrol,43690,Manual,2,1223499
+Maruti,Eeco5 STR WITH AC PLUSHTR,2019,Hyderabad,Petrol,17802,Manual,1,413699
+Maruti,Swift DzireLDI BS IV,2014,Delhi,Diesel,62386,Manual,1,333000
+Maruti,Zen EstiloLXI,2010,Chennai,Petrol,31247,Manual,1,294099
+Renault,KwidRXL,2018,Delhi,Petrol,8220,Manual,1,348199
+Toyota,EtiosGD,2012,Delhi,Diesel,82053,Manual,1,280799
+Hyundai,Santro XingGLS,2009,Chennai,Petrol,58055,Manual,2,234599
+Toyota,Fortuner3.0 AT 4X2,2014,Mumbai,Diesel,78969,Automatic,2,1451599
+Maruti,Wagon R 1.0LXI CNG,2014,Mumbai,Petrol + CNG,165231,Manual,1,335000
+Honda,WR-V1.2 i-VTEC VX MT,2018,Mumbai,Petrol,15150,Manual,1,869899
+Maruti,CelerioVXI AMT,2016,Bangalore,Petrol,19202,Automatic,1,500999
+Ford,Ecosport1.5 TITANIUM TI VCT,2016,Delhi,Petrol,7293,Manual,1,720599
+Hyundai,VENUE1.0L Turbo GDI SX MT,2019,Delhi,Petrol,16832,Manual,1,899099
+Honda,,2016,Chennai,Diesel,65894,,2,547799
+Honda,CityV MT PETROL,2017,Chennai,Petrol,81387,Manual,1,765599
+Renault,DusterRXZ,2020,Bangalore,Petrol,6996,Manual,1,1111500
+Maruti,Swift DzireVXI 1.2 BS IV,2016,Mumbai,Petrol,33430,Manual,1,544899
+Maruti,AltoLXI,2010,Delhi,Petrol,29645,Manual,1,188899
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Mumbai,Petrol,31490,Manual,1,540799
+Toyota,EtiosG,2012,Bangalore,Petrol,30224,Manual,2,403599
+Hyundai,i10MAGNA 1.2,2009,Hyderabad,Petrol,94523,Manual,2,262199
+Tata,Indica VistaVX QUADRAJET,2012,Bangalore,Diesel,59345,Manual,1,314999
+Nissan,SunnyXE D,2017,Delhi,Diesel,121004,Manual,1,514799
+Maruti,Alto 800LXI,2014,Delhi,Petrol,66835,Manual,1,220899
+Maruti,SwiftVXI 1.3,2008,Hyderabad,Petrol,70663,Manual,2,308199
+Hyundai,EonD LITE PLUS,2013,Delhi,Petrol,35108,Manual,2,187000
+Hyundai,i10MAGNA 1.1 IRDE2,2011,Delhi,Petrol,47724,Manual,1,217000
+Maruti,Wagon RLXI,2009,Delhi,Petrol,57898,Manual,1,171699
+Maruti,Alto 800LXI,2013,Chennai,Petrol,43405,Manual,1,295699
+Maruti,BalenoDELTA 1.2 K12,2017,Delhi,Petrol,23303,Manual,1,582599
+Maruti,RitzVXI BS IV,2010,Mumbai,Petrol,79723,Manual,1,220000
+Maruti,CelerioVXI CNG,2019,Delhi,Petrol + CNG,29586,Manual,1,447268
+Maruti,AltoLXI,2009,Delhi,Petrol,38347,Manual,1,146799
+Hyundai,VernaFLUIDIC 1.6 SX VTVT,2013,Bangalore,Petrol,24654,Manual,2,594599
+Maruti,CelerioZXI,2016,Mumbai,Petrol,39495,Manual,1,436299
+Maruti,CelerioVXI,2015,Mumbai,Petrol,19841,Manual,1,399000
+Maruti,SwiftVDI,2013,Hyderabad,Diesel,111864,Manual,2,393699
+Hyundai,EonMAGNA PLUS,2013,Delhi,Petrol,56037,Manual,1,289599
+Ford,Ecosport1.5 TITANIUM TI VCT AT,2015,Chennai,Petrol,124096,Automatic,1,567599
+Toyota,EtiosG,2012,Delhi,Petrol,75034,Manual,1,286799
+Renault,Duster85 PS RXL OPT,2013,Delhi,Diesel,149244,Manual,1,441199
+Maruti,ErtigaVDI SHVS,2017,Mumbai,Diesel,23787,Manual,1,825000
+Hyundai,Elite i20ASTA 1.4 CRDI,2015,Bangalore,Diesel,21983,Manual,2,691299
+Maruti,AltoLXI,2012,Hyderabad,Petrol,21215,Manual,1,252999
+Hyundai,i20ASTA 1.2,2009,Bangalore,Petrol,109610,Manual,1,389699
+Maruti,ErtigaVDI ABS,2015,Bangalore,Diesel,53684,Manual,2,665999
+Hyundai,Elite i20MAGNA 1.2,2015,Delhi,Petrol,165828,Manual,1,445499
+BMW,3 Series320D LUXURYLINE,2014,Delhi,Diesel,96334,Automatic,2,1630000
+Toyota,Etios LivaG SP,2012,Delhi,Petrol,31240,Manual,2,383199
+Maruti,BalenoDELTA 1.2 K12,2018,Delhi,Petrol,19440,Manual,1,546899
+Maruti,CiazVDI+ SHVS,2016,Mumbai,Diesel,141441,Manual,1,541899
+Hyundai,i10SPORTZ 1.1 IRDE2,2015,Bangalore,Petrol,39456,Manual,1,432599
+Hyundai,i20MAGNA O 1.2,2011,Delhi,Petrol,129573,Manual,1,283699
+Maruti,SwiftVDI,2012,Delhi,Diesel,105388,Manual,1,328699
+Maruti,Wagon R 1.0VXI,2015,Mumbai,Petrol,30131,Manual,1,339299
+Maruti,Alto K10VXI,2011,Delhi,Petrol,63663,Manual,1,158599
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,42478,Manual,2,345599
+Maruti,RitzVDI,2012,Mumbai,Diesel,88243,Manual,2,270500
+Maruti,BalenoZETA 1.2 K12,2019,Delhi,Petrol,33126,Manual,1,682699
+Maruti,Wagon R 1.0VXI,2016,Delhi,Petrol,27654,Manual,1,340000
+Maruti,Swift DzireVXI,2010,Delhi,Petrol,80042,Manual,1,251799
+Maruti,Swift DzireVDI,2013,Hyderabad,Diesel,156746,Manual,1,453899
+Maruti,SwiftVXI,2020,Bangalore,Petrol,2310,Manual,1,691945
+Honda,Amaze1.2 VXMT I VTEC,2019,Bangalore,Petrol,15979,Manual,1,760499
+Hyundai,i20MAGNA O 1.2,2010,Bangalore,Petrol,88825,Manual,1,379899
+Maruti,Alto 800LXI,2012,Hyderabad,Petrol,126194,Manual,2,244799
+Maruti,Alto 800LXI,2013,Chennai,Petrol,84015,Manual,3,227499
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2016,Chennai,Petrol,30404,Manual,1,505899
+Hyundai,i10SPORTZ 1.2 AT KAPPA2,2011,Hyderabad,Petrol,116395,Automatic,1,373699
+Maruti,Swift DzireZXI 1.2 BS IV,2015,Bangalore,Petrol,46629,Manual,1,598699
+Maruti,BalenoALPHA DDIS 190,2016,Delhi,Diesel,81175,Manual,1,538099
+Maruti,,2013,Bangalore,Petrol,53166,,1,442299
+Maruti,Wagon R 1.0VXI,2014,Chennai,Petrol,114075,Manual,1,345199
+Hyundai,Grand i10MAGNA 1.2 KAPPA VTVT,2014,Mumbai,Petrol,19399,Manual,1,430399
+Renault,KwidRXT,2016,Chennai,Petrol,16272,Manual,1,368699
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2016,Mumbai,Petrol,14765,Manual,1,429699
+Toyota,Etios LivaG,2011,Chennai,Petrol,72062,Manual,2,333199
+Maruti,Vitara BrezzaZDI PLUS,2019,Mumbai,Diesel,28073,Manual,1,1018000
+Maruti,Zen EstiloVXI,2010,Chennai,Petrol,43110,Manual,1,241299
+Hyundai,i10MAGNA 1.2 KAPPA2,2010,Delhi,Petrol,87770,Manual,1,236199
+Maruti,AltoLXI,2012,Hyderabad,Petrol,50011,Manual,2,240299
+Maruti,CiazALPHA 1.4 VVT,2018,Chennai,Petrol,27384,Manual,2,764999
+Maruti,BalenoDELTA 1.2 K12,2018,Delhi,Petrol,6897,Manual,1,598000
+Maruti,Alto 800LXI,2014,Mumbai,Petrol,29457,Manual,1,211899
+Maruti,Alto K10VXI,2014,Delhi,Petrol,42373,Manual,2,316599
+Hyundai,Grand i10ASTA 1.2 KAPPA VTVT OPT,2016,Chennai,Petrol,45345,Manual,2,471299
+Hyundai,Grand i10MAGNA 1.2 VTVT,2016,Delhi,Petrol,65895,Manual,3,384899
+Maruti,ErtigaVXI,2014,Mumbai,Petrol,62837,Manual,1,549599
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,95472,Manual,1,288499
+Toyota,Etios LivaD 4D GD,2015,Delhi,Diesel,140421,Manual,1,382499
+Hyundai,Grand i10MAGNA 1.2 VTVT,2013,Delhi,Petrol,127420,Manual,1,315399
+Maruti,SwiftVXI,2015,Delhi,Petrol,31754,Manual,2,492099
+Maruti,Eeco5 STR WITH AC PLUSHTR,2020,Chennai,Petrol,1289,Manual,1,470999
+Maruti,SwiftVXI,2013,Bangalore,Petrol,70966,Manual,1,493199
+Skoda,RapidSTYLE 1.6 MPI MT,2019,Bangalore,Petrol,3353,Manual,1,961199
+Datsun,Go PlusT,2016,Chennai,Petrol,31871,Manual,1,350999
+Maruti,Wagon R 1.0VXI,2010,Mumbai,Petrol,48299,Manual,2,273299
+Skoda,SuperbELEGANCE 1.8 TSI AT,2009,Delhi,Petrol,77360,Automatic,1,271599
+Hyundai,Elite i20SPORTZ 1.2,2016,Bangalore,Petrol,74761,Manual,1,625999
+Honda,Brio1.2 S MT I VTEC,2016,Delhi,Petrol,36373,Manual,1,400000
+Maruti,BalenoSIGMA 1.2 K12,2015,Chennai,Petrol,48809,Manual,2,475099
+Hyundai,Grand i10MAGNA 1.2 VTVT,2013,Bangalore,Petrol,93380,Manual,1,390199
+Maruti,Alto 800VXI,2017,Chennai,Petrol,21239,Manual,1,357199
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,114363,Manual,1,366899
+Maruti,AltoLXI,2008,Bangalore,Petrol,45476,Manual,1,188599
+Honda,Amaze1.5 VXMT I DTEC,2013,Hyderabad,Diesel,59316,Manual,1,414999
+Maruti,Wagon R 1.0VXI AMT,2018,Mumbai,Petrol,66707,Automatic,1,389599
+Maruti,SwiftLXI 1.3,2008,Delhi,Petrol,61909,Manual,1,201799
+Maruti,BalenoZETA 1.2 K12,2021,Delhi,Petrol,11162,Manual,1,791999
+Honda,,2019,Hyderabad,Petrol,7093,,1,630399
+Toyota,Corolla AltisVL AT,2015,Mumbai,Petrol,67059,Automatic,1,1081399
+Maruti,DzireVXI,2017,Bangalore,Petrol,20049,Manual,1,633199
+Hyundai,EonERA PLUS,2014,Delhi,Petrol,44012,Manual,1,214299
+Maruti,SwiftZXI,2012,Mumbai,Petrol,40272,Manual,1,320899
+Jeep,,2017,Mumbai,Diesel,9721,,1,1756699
+Maruti,Swift DzireVDI BS IV,2012,Mumbai,Diesel,53886,Manual,1,462799
+Ford,Ecosport1.5TITANIUM TDCI,2015,Mumbai,Diesel,96574,Manual,1,568399
+Maruti,RitzLXI,2010,Delhi,Petrol,77639,Manual,2,268099
+Honda,CityS MT PETROL,2011,Delhi,Petrol + CNG,170289,Manual,2,266299
+Maruti,SwiftVXI,2018,Delhi,Petrol,51789,Manual,1,476999
+Ford,,2019,Delhi,Petrol,28368,,1,866799
+Maruti,BalenoDELTA 1.2 K12,2017,Delhi,Petrol,42204,Manual,1,518899
+Renault,KwidRXT 1.0 EASY-R AT OPTION,2019,Chennai,Petrol,34972,Automatic,1,472699
+Honda,CityV MT PETROL,2017,Chennai,Petrol,20679,Manual,1,819099
+Mahindra,XUV500W8 FWD,2014,Delhi,Diesel,91227,Manual,1,749499
+Maruti,BalenoZETA 1.2 K12,2019,Mumbai,Petrol,14664,Manual,1,680099
+Honda,Amaze1.2 SMT I VTEC,2019,Chennai,Petrol,25356,Manual,1,637199
+MG,HECTORSHARP DCT PETROL,2020,Mumbai,Petrol,11480,Automatic,1,1772799
+Honda,Amaze1.2 SMT I VTEC,2014,Delhi,Petrol,86533,Manual,1,339199
+Maruti,Wagon R 1.0VXI,2011,Chennai,Petrol,112742,Manual,1,284699
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Delhi,Petrol + CNG,18595,Manual,1,519699
+Maruti,SwiftVXI OPT,2016,Chennai,Petrol,51487,Manual,1,511599
+Maruti,Swift DzireVXI 1.2 BS IV,2015,Hyderabad,Petrol,78713,Manual,1,535999
+Mahindra,,2017,Mumbai,Diesel,44167,,1,632000
+Maruti,Alto 800LXI,2015,Chennai,Petrol,60562,Manual,1,314899
+Honda,CityV MT PETROL,2012,Mumbai,Petrol,44443,Manual,1,393599
+Maruti,IGNISZETA 1.2 K12,2017,Delhi,Petrol,46826,Manual,1,508000
+Hyundai,i10ERA 1.1 IRDE,2010,Delhi,Petrol,67593,Manual,1,150000
+Mahindra,TUV300T8,2016,Chennai,Diesel,51530,Manual,1,719099
+Maruti,SwiftVDI,2012,Delhi,Diesel,47140,Manual,1,338999
+Maruti,Wagon R 1.0VXI AMT,2017,Mumbai,Petrol,5842,Automatic,1,441000
+Maruti,SwiftVXI,2014,Delhi,Petrol,31059,Manual,1,405000
+Maruti,ErtigaZDI PLUS,2019,Mumbai,Diesel,39083,Manual,1,1140000
+Renault,DusterRXZ DIESEL 110,2017,Bangalore,Diesel,26002,Manual,1,929699
+Maruti,Alto 800LXI,2018,Hyderabad,Petrol,18313,Manual,1,349399
+Maruti,BalenoSIGMA 1.2 K12,2015,Delhi,Petrol,46137,Manual,1,439000
+Toyota,Fortuner3.0 AT 4X2,2012,Chennai,Diesel,197177,Automatic,1,1234899
+Maruti,RitzVXI BS IV,2011,Delhi,Petrol,75011,Manual,1,235000
+Maruti,Wagon R StingrayVXI,2014,Hyderabad,Petrol,50426,Manual,2,371899
+Chevrolet,BeatLT DIESEL,2012,Mumbai,Diesel,185927,Manual,1,154699
+Renault,KwidRXT Opt,2016,Bangalore,Petrol,18756,Manual,1,399499
+Honda,Jazz1.2 V AT,2017,Mumbai,Petrol,49422,Automatic,1,688799
+KIA,,2019,Mumbai,Petrol,5348,,1,1643599
+Maruti,ErtigaZDI,2015,Bangalore,Diesel,82812,Manual,2,718899
+Toyota,Etios LivaD 4D GD,2012,Delhi,Diesel,87914,Manual,1,266099
+Skoda,Rapid1.6 TDI MT AMBITION PLUS,2014,Mumbai,Diesel,93514,Manual,2,392699
+Hyundai,Verna1.4 VTVT E,2018,Mumbai,Petrol,31004,Manual,1,712500
+Toyota,EtiosG SP,2011,Delhi,Petrol,78223,Manual,1,242199
+Maruti,ErtigaVDI SHVS,2016,Delhi,Diesel,58892,Manual,1,535000
+Hyundai,Grand i10ASTA 1.2 KAPPA VTVT,2017,Delhi,Petrol,44147,Manual,1,562499
+Hyundai,i10SPORTZ 1.2 KAPPA2,2012,Hyderabad,Petrol,58357,Manual,2,358199
+Toyota,Innova Crysta2.8 ZX AT 7 STR,2018,Mumbai,Diesel,52726,Automatic,1,1869599
+Hyundai,i20SPORTZ 1.2 VTVT,2012,Mumbai,Petrol,51541,Manual,1,401799
+Hyundai,,2015,Bangalore,Diesel,86573,,1,879799
+Hyundai,Grand i10MAGNA 1.2 VTVT,2014,Bangalore,Petrol,7445,Manual,2,434599
+Hyundai,Elite i20ASTA 1.2,2018,Delhi,Petrol,78045,Manual,1,625000
+Maruti,SwiftVDI,2011,Mumbai,Diesel,181733,Manual,1,360099
+Skoda,Rapid1.6 TDI MT AMBITION,2012,Mumbai,Diesel,92158,Manual,1,390000
+Mahindra,TUV300T8,2016,Chennai,Diesel,110068,Manual,1,661599
+Maruti,BalenoALPHA 1.2 K12,2017,Mumbai,Petrol,66202,Manual,1,543199
+Honda,CityS MT PETROL,2011,Chennai,Petrol,75872,Manual,2,411399
+Honda,Amaze1.5 SMT I DTEC,2013,Delhi,Diesel,147667,Manual,1,280299
+Maruti,,2016,Delhi,Petrol,52934,,1,510699
+Maruti,,2015,Chennai,Diesel,95763,,1,519799
+Maruti,Wagon R 1.0VXI,2015,Bangalore,Petrol,60595,Manual,1,413499
+Maruti,OMNI ESTD,2017,Chennai,Petrol,69208,Manual,1,351999
+Maruti,Alto 800LXI,2017,Mumbai,Petrol,15483,Manual,1,334799
+Ford,Ecosport1.5TITANIUM TDCI,2017,Delhi,Diesel,55570,Manual,2,620800
+Maruti,Swift DzireVDI BS IV,2017,Delhi,Diesel,51767,Manual,2,571899
+Ford,Ecosport1.0 ECOBOOST TITANIUM,2015,Bangalore,Petrol,148758,Manual,1,622199
+Maruti,SwiftVDI ABS,2015,Delhi,Diesel,86417,Manual,1,405199
+Hyundai,Elite i20Magna Executive 1.2,2018,Delhi,Petrol,21828,Manual,1,630000
+Hyundai,i20 Active1.4 SX,2015,Bangalore,Diesel,74344,Manual,2,649899
+Hyundai,Elite i20ASTA 1.2,2015,Chennai,Petrol,24687,Manual,1,572399
+Hyundai,Creta1.6 CRDI SX PLUS AUTO,2016,Chennai,Diesel,136583,Automatic,1,848999
+Mercedes,,2011,Mumbai,Diesel,103047,,3,821599
+Maruti,Vitara BrezzaVDI,2018,Delhi,Diesel,67617,Manual,1,662099
+Maruti,AltoLXI,2012,Bangalore,Petrol,25985,Manual,1,293099
+Maruti,Swift DzireVDI BS IV,2014,Chennai,Diesel,83907,Manual,1,481099
+Maruti,SwiftVDI,2012,Delhi,Diesel,102024,Manual,1,295499
+Maruti,AltoLXI,2012,Chennai,Petrol,50410,Manual,1,214599
+Toyota,Corolla AltisVL AT,2008,Delhi,Petrol + CNG,109639,Automatic,4,395599
+ISUZU,MU-7High 4x2 MT,2014,Delhi,Diesel,92819,Manual,2,657199
+Honda,Brio1.2 S (O) MT IVTEC,2012,Bangalore,Petrol,56027,Manual,2,379199
+Hyundai,AURASX O MT 1.2 Diesel,2020,Mumbai,Diesel,2963,Manual,1,840799
+Honda,CityVX MT DIESEL,2015,Delhi,Diesel,126964,Manual,1,541299
+Maruti,Wagon R 1.0LXI CNG,2017,Mumbai,Petrol + CNG,42385,Manual,1,416199
+Maruti,IGNISDELTA 1.2 K12,2018,Chennai,Petrol,15813,Manual,1,523099
+Maruti,Wagon R 1.0VXI,2011,Mumbai,Petrol,113284,Manual,1,317099
+Hyundai,Verna1.6 CRDI SX + AT,2017,Delhi,Diesel,26825,Automatic,1,974499
+Maruti,SwiftZXI,2012,Mumbai,Petrol,50581,Manual,1,410399
+Maruti,ErtigaVDI SHVS,2017,Chennai,Diesel,37958,Manual,1,848499
+Hyundai,i20 Active1.2 S,2017,Chennai,Petrol,49009,Manual,2,554599
+Chevrolet,BeatLT PETROL,2011,Bangalore,Petrol,55009,Manual,1,336699
+Maruti,SwiftVDI,2013,Delhi,Diesel,63561,Manual,1,360699
+Maruti,Alto K10VXI,2018,Delhi,Petrol,41354,Manual,1,415299
+Maruti,SwiftVDI ABS,2017,Delhi,Diesel,16646,Manual,1,479299
+Maruti,Alto 800LXI,2018,Delhi,Petrol,13291,Manual,1,399799
+Hyundai,i20 Active1.2 S,2016,Mumbai,Petrol,17868,Manual,2,521799
+Hyundai,Grand i10MAGNA 1.2 KAPPA VTVT,2018,Delhi,Petrol,55365,Manual,2,505099
+Nissan,MicraXL PETROL,2015,Delhi,Petrol + CNG,69339,Manual,3,250000
+Maruti,IGNISZETA 1.2 K12,2019,Mumbai,Petrol,12821,Manual,1,574199
+Volkswagen,VentoHIGHLINE PETROL AT,2012,Delhi,Petrol,113789,Automatic,2,375299
+Hyundai,Creta1.6 E + VTVT,2017,Mumbai,Petrol,26547,Manual,2,784099
+Maruti,Alto 800LXI,2017,Mumbai,Petrol,9899,Manual,1,350899
+Toyota,Fortuner3.0 MT 4X2,2012,Mumbai,Diesel,68536,Manual,2,1125000
+Hyundai,Grand i10ASTA 1.2 AT VTVT,2015,Mumbai,Petrol,114840,Automatic,1,428899
+Hyundai,VernaFLUIDIC 1.4 CRDI,2014,Delhi,Diesel,56811,Manual,1,535000
+Maruti,Wagon R 1.0VXI,2018,Delhi,Petrol,37274,Manual,1,394299
+Maruti,Alto 800LXI,2014,Bangalore,Petrol,48657,Manual,1,260299
+KIA,SELTOSHTK PLUS 1.5 PETROL,2019,Delhi,Petrol,6707,Manual,1,1073399
+Hyundai,i10MAGNA 1.2 KAPPA2,2013,Hyderabad,Petrol,35377,Manual,1,368999
+Toyota,Fortuner2.8 4x2 AT,2018,Delhi,Diesel,25870,Automatic,4,2724199
+Volkswagen,AmeoHIGHLINE 1.2,2016,Mumbai,Petrol,24023,Manual,2,468999
+Maruti,CelerioVXI,2019,Delhi,Petrol,11873,Manual,1,395499
+Ford,Figo1.2 EXI DURATEC,2010,Mumbai,Petrol,31302,Manual,1,191199
+Hyundai,VENUE1.0 TURBO GDI SX+ AT,2019,Bangalore,Petrol,6782,Automatic,1,1187399
+Ford,Ecosport1.5TITANIUM TDCI,2017,Delhi,Diesel,80312,Manual,1,776999
+Maruti,SwiftVDI,2014,Delhi,Diesel,70681,Manual,2,342199
+Fiat,Punto EVOMULTIJET 1.3 90 HP,2014,Delhi,Diesel,82095,Manual,1,266799
+Hyundai,Grand i10SPORTZ 1.2 KAPPA VTVT,2018,Chennai,Petrol,21672,Manual,2,520299
+Maruti,SwiftVXI,2011,Delhi,Petrol,95427,Manual,2,262399
+Toyota,Innova2.5 VX 7 STR BS IV,2013,Delhi,Diesel,140808,Manual,1,708599
+Maruti,Swift DzireVDI BS IV,2012,Delhi,Diesel,110400,Manual,2,282599
+Maruti,Swift DzireLXI 1.2 BS IV,2015,Delhi,Petrol,69364,Manual,1,367499
+Maruti,SwiftZXI,2013,Delhi,Petrol,59872,Manual,2,382599
