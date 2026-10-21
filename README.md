@@ -35,19 +35,23 @@ Test agent behaviour and validate outputs across different data scenarios
 Apply benchmarking techniques to compare model accuracy and guide design decisions
 Turn structured enterprise data into actionable, AI-driven decisions inside your agent pipelines
 
+## Prerequisites / Setup
+
+Before starting the exercises, set up a Python virtual environment and install the required packages:
+
+```bash
+# from the repository root
+python3 -m venv .venv
+source .venv/bin/activate        # on Windows: .venv\Scripts\activate
+pip install -r exercises/requirements.txt
+```
+
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Getting Started / System access](exercises/ex0/)
-- [Exercise 1 - Introduction to SAP RPT](exercises/ex1/)
-- [Exercise 2 - Build your Agent with Joule Studio & integrate SAP RPT](exercises/ex2/)
-
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
+- [Exercise 1 - Tabular AI Orchestration](exercises/ex1/)
+- [Exercise 2 - Build your Agent with Joule Studio & integrate SAP-RPT-1.6](exercises/ex2/)
+- [Exercise 3 - Introduction to SAP-RPT-1.6](exercises/ex3/)
 
 **IMPORTANT**
 

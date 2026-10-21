@@ -1,6 +1,6 @@
 # Exercise 3 - Introduction to SAP-RPT-1.6
 
-In this exercise, we will create run SAP-RPT-1.6 with some sample data. You will learn to process tabular data from [used_car_sales](../ex1/data/used_car_24.csv) and to use the SAP-RPT-1.6 API to predict the price of a car. 
+In this exercise, we will create run SAP-RPT-1.6 with some sample data. You will learn to process tabular data from [used_car_sales](data/used_cars_24.csv) and to use the SAP-RPT-1.6 API to predict the price of a car. 
 
 ### sample data
 
@@ -24,9 +24,10 @@ Access credentials to AI Core are required. In particular, the following credent
 AICORE_AUTH_URL
 AICORE_CLIENT_ID
 AICORE_CLIENT_SECRET
-
-BASE_DEPLOYMENT_URL
+AICORE_RESOURCE_GROUP
+AICORE_BASE_URL
 RPT_DEPLOYMENT_ID
+RPT_LARGE_DEPLOYMENT_ID   # optional, only needed for the sap-rpt-1.6-large variant
 ```
 
 Once you have all the credentials set up, you can start in [Jupyter Notebook part (1)](RPT_notebook_TechEd2026_part1_prediction.ipynb) which focuses on the core functionalities of the SAP-RPT-1.6 model. Afterwards, you may continue on to [Jupyter Notebook part (2)](RPT_notebook_TechEd2026_part2_explainability.ipynb) which focusses on the explanibility feature.

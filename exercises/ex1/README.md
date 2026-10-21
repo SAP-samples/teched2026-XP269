@@ -20,7 +20,7 @@ Context Registry
 
 ## Quick setup - Preparing the .env file
 
-You should see a `.env.example` file. Rename the file to `.env` and open this file. You would see that we have already prepared some environment variables in the file:
+You should see a `.env.example` file. Rename the file to `.env` and open this file. The `.env` file is shared across all exercises. You would see that we have already prepared some environment variables in the file:
 ```
 AICORE_AUTH_URL=<url in XP269-SK.json file>/oauth/token
 AICORE_CLIENT_ID=<clientid in XP269-SK.json file>
@@ -28,11 +28,15 @@ AICORE_CLIENT_SECRET=<clientsecret in XP269-SK.json file>
 AICORE_RESOURCE_GROUP=default
 AICORE_BASE_URL=<AI_API_URL in XP269-SK.json file>
 RPT_DEPLOYMENT_ID=YOUR_SAP_RPT_1.6_DEPLOYMENT_ID
-TABORC_HDLFS_HOST=<hdlfs-host in XP269-SK.json file>
-TABORC_HDLFS_URL=<hdlfs-url in XP269-SK.json file>
+TABORC_DEPLOYMENT_ID=YOUR_TABORC_DEPLOYMENT_ID
+TABORC_HDLFS_HOST=<files.host in HDLFS service key>
+TABORC_HDLFS_URL=<files.host in HDLFS service key>
+TABORC_HDLFS_PATH=<path to CSV on HDLFS, e.g. /teched/used_cars_24.csv>
 ```
 
-Unzip `credentials.zip` file and open the `XP269-SK.json` file. Copy the required values from this JSON file into your `.env` file.
+Unzip `credentials.zip` file and open the `XP269-SK.json` file. Copy the AI Core values (`AICORE_*`) from this JSON file into your `.env` file.
+
+> **Note:** The HDLFS values (`TABORC_HDLFS_HOST` / `TABORC_HDLFS_URL`) are **not** in `XP269-SK.json`. They come from a separate service key of the `hdlfs` service instance — use the `files.host` field for both. The `TABORC_DEPLOYMENT_ID` (the `tabular-orchestration` deployment, not the raw RPT deployment) will be provided during the session.
 
 ## Exercise 1.1 - Set up Tabular AI Orchestration (Design Time Steps)
 
@@ -51,4 +55,4 @@ After completing these steps, you will have successfully obtained model predicti
 
 ## Summary
 
-Now, that you have tried Tabular orchestration. Head to [Exercise 3 - Building an agent with Tabular AI Orchestration and SAP-RPT-1.6](/exercises/ex3/README.md).
+Now, that you have tried Tabular orchestration. Head to [Exercise 2 - Building an agent with Tabular AI Orchestration and SAP-RPT-1.6](../ex2/README.md).
