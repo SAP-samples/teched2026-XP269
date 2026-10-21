@@ -14,52 +14,55 @@ There are two parts:
 
 ## Instructions
 
-### Step 1 — Copy the reference skill
+### Step 1 — View the reference skill
 
-The completed skill is provided in [`used-car-deal-checker/SKILL.md`](used-car-deal-checker/SKILL.md). Open it and read it top to bottom — it is commented for the workshop.
+> Note: This skill orchestrates the pre-provided MCP server. It does not call any API directly and needs no credentials — the MCP handles AI Core auth. You just have to replace the name of the scenario configuration name with the one you created in Exercise 1.
+
+The completed skill is provided in [`used-car-deal-checker/SKILL.md`](used-car-deal-checker/SKILL.md). Open it and read it top to bottom.
 
 Here are several things to note:
 - The **description** lists trigger phrases a marketplace user would actually type.
 - The **How it works** section calls the MCP's prediction tool `tabai-mcp` with:
-  - The **scenario configuration name** from Exercise 1 (`used-cars-sc-<alias>`),
+  - The **scenario configuration name** from Exercise 1 (`used-cars-scenario-<alias>`),
   - A **model** (`sap-rpt-1.6`),
   - The car's attributes as the query row, with the target column set to `[PREDICT]`.
 - On top of the prediction, it takes the seller's asking price and compares it against the predicted market value using a ±5% threshold to give a verdict: **Good deal**, **Fair price**, or **Overpriced**.
 - It depends on the base **response-style** guidance so the answer reads cleanly.
 
----
-
-### Step 2 — Add your own flavour
-You can edit two things so the skill uses **your** created resources:
-1. In the body, set the scenario config to **your** name from Exercise 1: `used-cars-sc-<alias>`.
-2. (Optional) In the `name` and folder, add your alias so your skill doesn't clash with a neighbour's: `used-car-deal-checker-<alias>`.
+Within the SKILL.md file, set the scenario configuration `used-cars-scenario-<alias>` to the one you have created in Exercise 1.
 
 > Tip: don't over-edit. The description's trigger phrases and the single MCP call are what matter.
 
-### Step 3 — Publish it into Joule Studio
+### Step 3 - Extend the Deployed Agent with a new skill
 
-<!-- TEAM: this is the one SAP-internal step the repos don't document. Fill in the exact Joule Studio mechanics for adding/importing a SKILL.md-style skill and making it available in chat. Replace the placeholder steps below with the real click-path or import command. -->
-
-1. In Joule Studio, go to `<!-- TEAM: where skills are managed -->`.
-2. Add a new skill and provide the `SKILL.md` in assets/tabai-agent/app/skills/used-cars-deal-checker by chatting with Joule. Paste the content directly into the chat, along with the filename and where you want it placed:
+1. On the panel of Solutions, you should see the `TabAI TechEd Demo` agent in the list. Click on the 3-dots icon and click **Download ZIP**. 
+2. Click on down icon on the right of the **New** button.
+3. Select **Upload Solution** and choose the downloaded zip file. 
+4. You would see a warning message. Click **Copy** to proceed.
+5. You should see that this opens up a new agent solution, from your uploaded zip file. 
+6. On the right chat panel, you can type:
 ```
 <Paste skill content here>
 I want to create a new skill called used-cars-deal-checker. Place it in assets/tabai-agent/app/skills/used-cars-deal-checker.
 ```
+7. Feel free to rename it the file as you wish. 
+8. Once the skill has been created, you see that the new skill is added to the specified folder
 
-### Step 4 — Trigger it
+<TODO: screenshot>
+
+### Step 4 — Try the new skill
 
 Start a fresh chat and use one of the trigger phrases, e.g.:
 
 > "Is 420,000 a fair price for a 2018 Maruti Swift, petrol, manual, driven 45,000 km in Delhi?"
 
-Joule should pick **your** skill (because the request matches its description), call the MCP prediction tool against **your** scenario config, and come back with a verdict — **Good deal**, **Fair price**, or **Overpriced** — along with the predicted market value and the gap.
+The agent should pick your newly created skill (because the request matches its description), call the MCP prediction tool against **your** scenario configuration, and come back with a verdict — **Good deal**, **Fair price**, or **Overpriced** — along with the predicted market value and the gap.
 
 If Joule picks a different skill or asks which to use, make your skill's `description` more specific to the phrases you want to own, and try again.
 
 ## Key Takeaways
 - A skill = a `SKILL.md` folder: `description` decides *when*, body decides *how*.
-- A custom skill sits **on top of** the base skills and the provided MCP. It doesn't re-implement prediction, it **orchestrates** the MCP tool with your scenario config and a sensible model.
+- A custom skill sits **on top of** the base skills and the provided MCP. It doesn't re-implement prediction, it **orchestrates** the MCP tool with your scenario configuration and a sensible model.
 - The deal-checker shows the extensibility pattern: the base prediction stays unchanged, and your skill adds business logic (the asking-price comparison) on top of the raw predicted value.
 - The same pattern wraps *any* tabular prediction for a business user.
 

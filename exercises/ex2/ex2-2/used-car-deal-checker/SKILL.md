@@ -7,8 +7,6 @@ description: "Check whether a used-car listing is a good deal, overpriced, or fa
 
 Predicts the fair market value of a used car using the historical used-cars listings, then compares it against the seller's asking price to give a verdict.
 
-<!-- WORKSHOP: this skill orchestrates the pre-provided MCP server. It does not call any API directly and needs no credentials — the MCP handles AI Core auth. Replace the provisional MCP tool name and scenario-config name marked TEAM/alias below with your real values. -->
-
 ## Inputs
 
 Collect two things from the user's message:
@@ -22,9 +20,7 @@ Collect two things from the user's message:
 
 ## How it works
 
-Call the MCP prediction tool once to predict `Price`.
-
-<!-- TEAM: real MCP tool name here. Provisional: run_prediction -->
+Call the `tabai-mcp` prediction tool once to predict `Price`.
 
 Pass these arguments:
 
