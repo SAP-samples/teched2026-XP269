@@ -8,9 +8,7 @@ A skill is a small folder with a `SKILL.md` file. Joule reads the `description` 
 There are two parts:
 1. **Frontmatter** (between `---` fences) — two fields:
    - `name`: a kebab-case id.
-   - `description`: one line stating *what it does* and *when to use it*. **This is the trigger** —
-     Joule matches the user's request against it, so phrase it with the words a user would say
-     ("estimate price", "how much is this car worth", "predict the gearbox").
+   - `description`: one line stating *what it does* and *when to use it*. **This is the trigger** — Joule matches the user's request against it, so phrase it with the words a user would say ("estimate price", "how much is this car worth", "predict the gearbox").
 2. **Body** — Markdown sections telling the model how to fulfil the request: what inputs it needs,
    which MCP tool to call, and how to present the answer.
 
@@ -23,7 +21,7 @@ The completed skill is provided in [`used-car-deal-checker/SKILL.md`](used-car-d
 Here are several things to note:
 - The **description** lists trigger phrases a marketplace user would actually type.
 - The **How it works** section calls the MCP's prediction tool `tabai-mcp` with:
-  - The **scenario configuration name** from Module 01 (`used-cars-sc-<alias>`),
+  - The **scenario configuration name** from Exercise 1 (`used-cars-sc-<alias>`),
   - A **model** (`sap-rpt-1.6`),
   - The car's attributes as the query row, with the target column set to `[PREDICT]`.
 - On top of the prediction, it takes the seller's asking price and compares it against the predicted market value using a ±5% threshold to give a verdict: **Good deal**, **Fair price**, or **Overpriced**.
@@ -33,9 +31,8 @@ Here are several things to note:
 
 ### Step 2 — Add your own flavour
 You can edit two things so the skill uses **your** created resources:
-1. In the body, set the scenario config to **your** name from Module 01: `used-cars-sc-<alias>`.
-2. (Optional) In the `name` and folder, add your alias so your skill doesn't clash with a
-   neighbour's: `used-car-deal-checker-<alias>`.
+1. In the body, set the scenario config to **your** name from Exercise 1: `used-cars-sc-<alias>`.
+2. (Optional) In the `name` and folder, add your alias so your skill doesn't clash with a neighbour's: `used-car-deal-checker-<alias>`.
 
 > Tip: don't over-edit. The description's trigger phrases and the single MCP call are what matter.
 
