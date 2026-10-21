@@ -27,11 +27,12 @@ AICORE_CLIENT_ID=<clientid in XP269-SK.json file>
 AICORE_CLIENT_SECRET=<clientsecret in XP269-SK.json file>
 AICORE_RESOURCE_GROUP=default
 AICORE_BASE_URL=<AI_API_URL in XP269-SK.json file>
-RPT_DEPLOYMENT_ID=YOUR_SAP_RPT_1.6_DEPLOYMENT_ID
-TABORC_DEPLOYMENT_ID=YOUR_TABORC_DEPLOYMENT_ID
-TABORC_HDLFS_HOST=<files.host in HDLFS service key>
-TABORC_HDLFS_URL=<files.host in HDLFS service key>
-TABORC_HDLFS_PATH=<path to CSV on HDLFS, e.g. /teched/used_cars_24.csv>
+RPT_DEPLOYMENT_ID=<deployments.sap-rpt-1.6 in XP269-SK.json file>
+RPT_LARGE_DEPLOYMENT_ID=<deployments.sap-rpt-1.6-large in XP269-SK.json file>
+TABORC_DEPLOYMENT_ID=<deployments.tabular-orchestration in XP269-SK.json file>
+TABORC_HDLFS_HOST=<hdlfs-host in XP269-SK.json file>
+TABORC_HDLFS_URL=<hdlfs-url in XP269-SK.json file>
+TABORC_HDLFS_PATH=<hdlfs-path in XP269-SK.json file>
 ```
 
 Unzip `credentials.zip` file and open the `XP269-SK.json` file. Copy the AI Core values (`AICORE_*`) from this JSON file into your `.env` file.
