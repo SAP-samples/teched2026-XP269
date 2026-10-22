@@ -57,6 +57,73 @@ pip install -r exercises/requirements.txt
 
 Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
+## Other Sessions
+
+#### **AD262 | Agentic CAP: Build MCP servers and enterprise AI agents (Hands-on workshop)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1786525647304001OTzl))
+
+> Learn how to turn apps based on SAP Cloud Application Programming Model (CAP) into enterprise AI agents using the model context protocol (MCP) and Agent2Agent protocol. With the integration of the SAP AI Core infrastructure, it’s straightforward to embed AI in apps based on CAP apps, such as including recommendations with the SAP-RPT-1 AI model.
+
+**Slots:** 
+
+- Tuesday, Oct 27 | 11:00 AM - 1:00 PM CET
+
+- Wednesday, Oct 28 | 3:30 PM - 5:30 PM CET
+
+
+#### **CT1093 | Beyond traditional machine learning: Putting SAP-RPT playground to the test (Community talk)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1784840363129001RY9e))
+
+> Find out how the SAP-RPT playground environment challenges traditional machine learning for insurance fraud detection. Run the playground on a classification problem, test it under limited labeled data, and see how the results could evolve into a broader fraud intelligence workflow with Joule and graph-based context.
+
+**Slots:** 
+
+- Tuesday, Oct 27 | 1:30 PM - 1:50 PM CET
+
+
+#### **DA205 | Agentic memory: Knowledge graph engine and recall in SAP HANA Cloud (Deep dive)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1785947648294001sOTX))
+
+> Discover what SAP HANA Cloud contributes to agentic applications. Learn about the knowledge graph engine in SAP HANA Cloud and its role in agentic workflows, agentic memory and ways to let your agent learn, and SAP AI Core infrastructure integration, which lets your database talk to LLMs and tabular foundation models like the SAP-RPT-1 AI model.
+
+**Slots:** 
+
+- Tuesday, Oct 27 | 2:00 PM - 2:45 PM CET
+- Thursday, Oct 29 | 11:00 AM - 11:45 AM CET
+
+
+#### **DA262 | Get hands on with tabular AI and forecasting models in SAP HANA Cloud (Hands-on workshop)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1785950867623001MHDu))
+
+> Learn how to leverage new SAP HANA Cloud database AI capabilities, such as generating on-the-fly predictions using tabular AI models like the SAP-RPT-1 AI model or generating ad hoc forecasts using time series foundation models. Get inspired by innovations, like automated machine learning (AutoML), from the predictive analysis library for SAP HANA.
+
+**Slots:** 
+
+- Wednesday, Oct 28 | 10:30 AM - 12:30 PM CET
+
+
+#### **DA263 | Knowledge graph and agent memory: Build an agent that remembers (Hands-on workshop)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1785951246358001oDkD))
+
+> Explore what SAP HANA Cloud contributes to agentic applications. Learn about the knowledge graph engine in SAP HANA Cloud and its role in agentic workflows, agentic memory and ways to let your agent learn, and SAP AI Core infrastructure integration, which lets your database talk to LLMs and tabular foundation models like the SAP-RPT-1 AI model.
+
+**Slots:** 
+
+- Wednesday, Oct 28 | 3:30 PM - 5:30 PM CET
+
+
+#### **RA109 | SAP-RPT and TabPFN: Foundation models built for structured data (Deep dive)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1785751135193001Ly8X))
+
+> Explore the future of tabular AI on SAP and predictive insights at scale with the latest generation of specialized tabular foundation models and features. Take a deep dive with SAP and Prior Labs to see how tabular foundation models revolutionize decision-making grounded in your relational enterprise data.
+
+**Slots:**
+
+- Thursday, Oct 29 | 10:00 AM - 10:45 AM CET
+
+
+#### **RA162 | SAP-RPT and TabPFN: Get started with tabular foundation models (Hands-on workshop)** ([Link](https://www.sap.com/events/teched/berlin/flow/sap/te26/catalog/page/catalog/session/1785751580777001pW43))
+
+> Get hands-on experience with tabular AI, guided by experts from SAP and Prior Labs. We'll explore the unique capabilities within each model family, then operationalize predictions with SAP AI Core. You'll learn how to build a workflow using tabular orchestration and connect your data to obtain real-time predictions.
+
+**Slots:**
+- Thursday, Oct 29 | 11:30 AM - 1:30 PM CET
+
+
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
