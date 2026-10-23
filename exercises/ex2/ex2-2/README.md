@@ -16,20 +16,20 @@ There are two parts:
 
 ### Step 1 — View the reference skill
 
-> Note: This skill orchestrates the pre-provided MCP server. It does not call any API directly and needs no credentials — the MCP handles AI Core auth. You just have to replace the name of the scenario configuration name with the one you created in Exercise 1.
+> Note: This skill orchestrates the pre-provided MCP server. It does not call any API directly and needs no credentials — the MCP handles AI Core auth. You just have to replace the name of the scenario configuration name with `mock-scenario-config`
 
 The completed skill is provided in [`used-car-deal-checker/SKILL.md`](used-car-deal-checker/SKILL.md). Open it and read it top to bottom.
 
 Here are several things to note:
 - The **description** lists trigger phrases a marketplace user would actually type.
 - The **How it works** section calls the MCP's prediction tool `tabai-mcp` with:
-  - The **scenario configuration name** from Exercise 1 (`used-cars-scenario-<alias>`),
+  - The **scenario configuration name** (`mock-scenario-config`),
   - A **model** (`sap-rpt-1.6`),
   - The car's attributes as the query row, with the target column set to `[PREDICT]`.
 - On top of the prediction, it takes the seller's asking price and compares it against the predicted market value using a ±5% threshold to give a verdict: **Good deal**, **Fair price**, or **Overpriced**.
 - It depends on the base **response-style** guidance so the answer reads cleanly.
 
-Within the SKILL.md file, set the scenario configuration `used-cars-scenario-<alias>` to the one you have created in Exercise 1.
+Within the SKILL.md file, set the scenario configuration `mock-scenario-config`.
 
 > Tip: don't over-edit. The description's trigger phrases and the single MCP call are what matter.
 
@@ -48,11 +48,12 @@ I want to create a new skill called used-cars-deal-checker. Place it in assets/t
 7. Feel free to rename it the file as you wish. 
 8. Once the skill has been created, you see that the new skill is added to the specified folder
 
-<TODO: screenshot>
+<img src="../../../assets/ex2-2-skill-creation.png" width="300" alt="skill creation">
+
 
 ### Step 4 — Try the new skill
 
-Start a fresh chat and use one of the trigger phrases, e.g.:
+Start a fresh chat via the tabai-agent under **Preview with Mock Data** and use one of the trigger phrases, e.g.:
 
 > "Is 420,000 a fair price for a 2018 Maruti Swift, petrol, manual, driven 45,000 km in Delhi?"
 
@@ -65,5 +66,3 @@ If Joule picks a different skill or asks which to use, make your skill's `descri
 - A custom skill sits **on top of** the base skills and the provided MCP. It doesn't re-implement prediction, it **orchestrates** the MCP tool with your scenario configuration and a sensible model.
 - The deal-checker shows the extensibility pattern: the base prediction stays unchanged, and your skill adds business logic (the asking-price comparison) on top of the raw predicted value.
 - The same pattern wraps *any* tabular prediction for a business user.
-
-

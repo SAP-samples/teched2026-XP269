@@ -9,6 +9,4 @@ Please login with XP269-xxx@education.cloud.sap and Password: <your-password> (w
 
 
 ## Summary
-
-Now that you have ... 
 Continue to - [Exercise 1 - Tabular AI Orchestration](../ex1/README.md)

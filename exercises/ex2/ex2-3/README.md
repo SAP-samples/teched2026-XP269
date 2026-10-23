@@ -8,23 +8,67 @@ The template has two moving parts:
 1. **The prediction call** — choose a target column and task type (`regression` or `classification`).
 2. **Your business logic** — what you do with the predicted value before returning it to the user. This is what makes your skill different from just asking for a raw prediction.
 
-## Here are some ideas to get you started
+## Ideas
+
+The examples below are the four currently supported scenarios. Pick one out of the four and try building it as a custom skill!
+
+> **Note:** This session runs on a mock environment, so only the exact inputs shown in each "Try it" block below will return a pre-defined response.
+
+---
 
 **Feature value estimator** — *"What is an automatic gearbox worth on this car?"*
+
 Run the same car twice — once with `Gear: Manual`, once with `Gear: Automatic` — and return the price delta. Tells a buyer whether a spec upgrade is worth the premium. Works for any column: `Fuel`, `Location`, `Ownership`.
 
+**Try it:**
+```
+What is an automatic gearbox worth on a 2019 Hyundai Creta 1.6 SX VTVT?
+```
+
+---
+
 **Location arbitrage** — *"Where should I sell this car to get the best price?"*
+
 Batch-predict the same car across multiple cities in one call. Rank by predicted price and tell the seller which market to list in.
 
+**Try it:**
+```
+Where should I sell my 2020 Maruti Swift Dzire VDI BS IV to get the best price? Compare Mumbai, Bangalore, Delhi, Chennai, and Hyderabad.
+```
+
+---
+
 **Depreciation preview** — *"How much will this car be worth in two years?"*
+
 Project future value at two or three mileage milestones (e.g. current km, +20k, +50k) by running predictions with incremented `Driven (Kms)`. Return a value-over-time table and a sell-or-hold recommendation.
 
+**Try it:**
+```
+How much will my 2021 Toyota Innova Crysta 2.4 VX 8 STR be worth as I drive more? It currently has 30,000 km.
+```
+
+---
+
 **Negotiation advisor** — *"I'm looking at three cars — which one should I make an offer on?"*
+
 User provides a list of cars with asking prices. Batch-predict market value for all of them, rank by gap between asking and predicted, and return a data-backed recommendation with a suggested counter-offer for the best candidate.
+
+**Try it:**
+```
+I'm looking at three cars — which one should I make an offer on?
+- Honda WR-V 1.2 i-VTEC VX MT (2019) at ₹6,50,000
+- Maruti Swift Dzire VDI BS IV (2020) at ₹5,90,000
+- Toyota Innova Crysta 2.4 VX 8 STR (2018) at ₹19,00,000
+```
+
+---
 
 > **Tip:** every one of these follows the same pattern as the deal-checker. There will be one prediction call (or a small batch), followed by the business logic on the result. The template guides you through both parts.
 
 ## Further exploration
+
+> **Note:** The ideas in this section go beyond what the mock environment supports. They are here for reference — try them out once the live deployment is available.
+
 ### Predict other columns
 
 Your skill already handles `Price`. Change the target column and you have new capabilities with no new setup:

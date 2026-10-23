@@ -26,7 +26,7 @@ Used-car dataset columns you can use as features or targets:
 <!-- Step 1: call the MCP prediction tool. -->
 <!-- TEAM: replace run_prediction with the real MCP tool name. -->
 
-Call the MCP prediction tool with:
+Call the `tabai-mcp` prediction tool with:
 
 - `scenarioConfigName`: `used-cars-sc-<alias>`
 - `modelName`: `sap-rpt-1.6`
