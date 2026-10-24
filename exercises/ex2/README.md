@@ -5,6 +5,22 @@ In this exercise, you will use Joule Studio 2.0 to build an agent that can run p
 ## Signing In
 1. Open **Joule Studio**: [`here`](https://747401964.eu10.sapdas.cloud.sap/new/build)
 2. Sign in with the user account that comes with your provided laptop.
+3. Confirm that the MCP and base skills are available.
+
+The team has already deployed the **MCP server** (in Cloud Foundry) and the **base skills**, and connected them to Joule Studio. Do a quick check to ensure that you can see/use them. 
+
+In Joule Studio, you should see the `TabAI TechEd Demo` agent in the list. Select it and click **Preview with Mock Data** and click **tabai-agent** to start a new chat. Type in a smoke-test prompt:
+```
+List the base skills you have available.
+```
+![alt text](/assets/ex2-JS.png)
+
+[Optional] You can do a second smoke-test prompt to confirm that the MCP can reach the backend:
+
+```
+Check that the tabular prediction service is healthy.
+```
+![alt text](/assets/ex2-tabhealth.png)
 
 ## Getting Started with Exercise 2
 There are 3 sub-exercises, as follow:

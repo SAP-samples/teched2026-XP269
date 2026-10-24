@@ -3,10 +3,7 @@
 In Exercise 1, you have created the scenario configuration (`used-cars-sc-<SUFFIX>`) and ran a prediction by calling the Tabular AI orchestration API directly in the Python notebook. Now, you will get to try running the same prediction workflow in **the no-code manner** just by chatting with Joule. You can build on top of this by creating your custom skill in Exercise 2.2.
 
 ## Run it
-1. On the panel of Solutions, select the `TabAI TechEd Demo` agent in the list.
-2. Click **Manage**.
-3. Click **tabai-agent** under Deployed Solution.
-4. In the chat, you can trigger the base prediction skill with a natural question, for example:
+1. In the same chat as before, you can trigger the base prediction skill with a natural question, for example:
 ```
 Predict the price of a 2015 Honda City, petrol, automatic, driven 60,000 km in Mumbai.
 ```
