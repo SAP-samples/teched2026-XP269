@@ -1,6 +1,6 @@
-# Exercise 2 - Building an agent with Tabular AI Orchestration and SAP-RPT-1.6
+# Exercise 2 - Agents with Tabular AI Orchestration and SAP-RPT-1.6
 
-In this exercise, you will use Joule Studio 2.0 to build an agent that can run predictions at scale using SAP-RPT-1.6 via the Tabular AI orchestration workflow. 
+In this exercise, you will use Joule Studio 2.0 to see how you can build and further extend an agent that can run predictions at scale using SAP-RPT-1.6 via the Tabular AI orchestration workflow. 
 
 ## Signing In
 1. Open **Joule Studio**: [`here`](https://747401964.eu10.sapdas.cloud.sap/new/build)
