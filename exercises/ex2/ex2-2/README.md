@@ -63,4 +63,4 @@ If Joule picks a different skill or asks which to use, make your skill's `descri
 - The same pattern wraps *any* tabular prediction for a business user.
 
 ## Summary
-You can now move on to [Exercise 2.3 - Take It Further](../ex2-3/README.md), where you can build your own skill from scratch.
+You can now move on to [Exercise 2.3 - Take It Further](../ex2-3/README.md), where you can build a custom skill from scratch for any one of the provided ideas and add your own business logic to it.

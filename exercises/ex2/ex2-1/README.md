@@ -30,4 +30,4 @@ For a 2018 Hyundai i20, diesel, 40,000 km, is it more likely manual or automatic
 The target column switches to `Gear` with `taskType: classification` and returns the most likely transmission with a confidence.
 
 ## Summary
-You can now move on to [Exercise 2.2 - Build a Custom Skill](../ex2-2/README.md), where you can wrap the chat path in a custom skill and add your own business logic to it.
+You can now move on to [Exercise 2.2 - Build a Custom Skill](../ex2-2/README.md), where you can try building a custom skill by following the instructions to build the `used-car-deal-checker` skill.
