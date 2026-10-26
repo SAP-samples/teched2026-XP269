@@ -24,7 +24,7 @@ Call the `tabai-mcp` prediction tool once to predict `Price`.
 
 Pass these arguments:
 
-- `scenarioConfigName`: `used-cars-sc-<alias>`  <!-- TEAM/alias: your scenario config from Exercise 1 -->
+- `scenarioConfigName`: `<TODO>`  <!-- TODO -->
 - `modelName`: `sap-rpt-1.6`
 - `predictionConfig.targetColumns`: a single entry predicting `Price` as a regression:
 ```json
