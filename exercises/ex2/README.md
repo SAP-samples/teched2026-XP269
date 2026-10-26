@@ -34,3 +34,5 @@ There are 3 sub-exercises, as follow:
 2. [Exercise 2.2 - Build a custom skill](../ex2/ex2-2/README.md)
 3. [Exercise 2.3 - Take it further](../ex2/ex2-3/README.md)
 
+## Summary
+You can now move on to [Exercise 3 - Introduction to SAP-RPT-1.6](../ex3/README.md), where you will run SAP-RPT-1.6 with sample data and use the API to predict tabular outcomes.

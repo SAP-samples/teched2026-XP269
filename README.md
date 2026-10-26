@@ -15,10 +15,6 @@ In this hands-on session, you will move beyond theory and directly experience ho
 
 Whether you are building decision-support agents, automating data-driven processes, or optimising enterprise workflows, tabular foundation models offer a powerful new layer of intelligence. Join us to discover how turning structured data into smarter, faster, and more reliable agent decisions is not just possible — it is within reach today.
 
-## Hands-On Architecture
-
-![Hands-On Architecture](assets/XP267_architecture.svg)
-
 ## What You Will Learn
 
 Tabular AI in Action: Building Smarter Agents with SAP-RPT & Joule Studio
