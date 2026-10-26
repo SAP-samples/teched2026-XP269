@@ -100,3 +100,9 @@ pattern the base skills + MCP are designed to support.
 ### Bring your own table
 
 The whole flow is dataset-agnostic. You can register a new data destination that points to a different table in HANA Data Lake Fies System (HDLFS) / S3 object storage, register it, and your skill pattern predicts any column of it. The used-cars dataset is just an example for this exercise that represents *your* data table in your use case.
+
+## Summary
+
+By the end of exercise 2, you should have successfully added the `used-cars-deal-checker` skill as well as a custom skill (any from the above list) to the provided agent. 
+
+If you would like to learn more about SAP-RPT-1.6, you can head to [Exercise 3 - Introduction to SAP-RPT-1.6](../ex3/README.md).
