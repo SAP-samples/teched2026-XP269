@@ -61,3 +61,6 @@ If Joule picks a different skill or asks which to use, make your skill's `descri
 - A custom skill sits **on top of** the base skills and the provided MCP. It doesn't re-implement prediction, it **orchestrates** the MCP tool with your scenario configuration and a sensible model.
 - The deal-checker shows the extensibility pattern: the base prediction stays unchanged, and your skill adds business logic (the asking-price comparison) on top of the raw predicted value.
 - The same pattern wraps *any* tabular prediction for a business user.
+
+## Summary
+You can now move on to [Exercise 2.3 - Take It Further](../ex2-3/README.md), where you can build your own skill from scratch.
