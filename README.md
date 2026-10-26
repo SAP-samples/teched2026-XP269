@@ -37,7 +37,15 @@ Turn structured enterprise data into actionable, AI-driven decisions inside your
 
 ## Prerequisites / Setup
 
-Before starting the exercises, set up a Python virtual environment and install the required packages:
+To get started, first download the repository as a zip file. Once completed, unzip the file and you should get an extracted folder.
+
+Open Visual Studio Code. Select **Open Folder** and choose the extracted folder. Once it has been loaded, you should see the file directory on the left. 
+
+Click **Terminal** at the top toolbar and select **New Terminal**.
+
+The terminal should open up on the bottom of the Visual Studio Code interface.
+
+Set up a Python virtual environment and install the required packages using the following commands:
 
 ```bash
 # from the repository root
@@ -45,6 +53,8 @@ python3 -m venv .venv
 source .venv/bin/activate        # on Windows: .venv\Scripts\activate
 pip install -r exercises/requirements.txt
 ```
+
+Once done, you can head to Exercise 1.
 
 ## Exercises
 
