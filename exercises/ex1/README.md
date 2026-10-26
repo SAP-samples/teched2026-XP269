@@ -54,6 +54,8 @@ Now, you are ready to try running the workflow and obtain predictions from the S
 
 After completing these steps, you will have successfully obtained model predictions from SAP-RPT-1.6 via the Tabular AI orchestration workflow.
 
+Once you are ready, open the [Python notebook](../ex1/TabAI_notebook_TechEd2026.ipynb) and follow the code blocks.
+
 ## Summary
 
 Now, that you have tried Tabular orchestration. Head to [Exercise 2 - Building an agent with Tabular AI Orchestration and SAP-RPT-1.6](../ex2/README.md).
