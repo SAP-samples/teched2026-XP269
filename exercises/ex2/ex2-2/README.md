@@ -35,18 +35,13 @@ Within the SKILL.md file, set the scenario configuration `mock-scenario-config`.
 
 ### Step 3 - Extend the Deployed Agent with a new skill
 
-1. On the panel of Solutions, you should see the `TabAI TechEd Demo` agent in the list. Click on the 3-dots icon and click **Download ZIP**. 
-2. Click on down icon on the right of the **New** button.
-3. Select **Upload Solution** and choose the downloaded zip file. 
-4. You would see a warning message. Click **Copy** to proceed.
-5. You should see that this opens up a new agent solution, from your uploaded zip file. 
-6. On the right chat panel, you can type:
+1. Open the right chat panel and type:
 ```
 <Paste skill content here>
 I want to create a new skill called used-cars-deal-checker. Place it in assets/tabai-agent/app/skills/used-cars-deal-checker.
 ```
-7. Feel free to rename it the file as you wish. 
-8. Once the skill has been created, you see that the new skill is added to the specified folder
+2. Feel free to rename it the file as you wish. 
+3. Once the skill has been created, you see that the new skill is added to the specified folder
 
 <img src="../../../assets/ex2-2-skill-creation.png" width="300" alt="skill creation">
 
@@ -68,4 +63,4 @@ If Joule picks a different skill or asks which to use, make your skill's `descri
 - The same pattern wraps *any* tabular prediction for a business user.
 
 ## Summary
-You can now move on to [Exercise 2.3 - Take It Further](../ex2-3/README.md), where you can build your own skill from scratch.
+You can now move on to [Exercise 2.3 - Take It Further](../ex2-3/README.md), where you can build a custom skill from scratch for any one of the provided ideas and add your own business logic to it.

@@ -18,17 +18,15 @@ Collect the following from the user's message:
 Used-car dataset columns you can use as features or targets:
 `Car Brand`, `Model`, `Model Year`, `Location`, `Fuel`, `Driven (Kms)`, `Gear`, `Ownership`, `Price`
 
-<!-- Note: `EMI (monthly)` is derived from `Price`. Do not use it as a feature when predicting
-     Price (it leaks the target), and avoid it as a target too (it is just a proxy for Price). -->
+<!-- Note: `EMI (monthly)` is derived from `Price`. Do not use it as a feature when predicting Price (it leaks the target), and avoid it as a target too (it is just a proxy for Price). -->
 
 ## How it works
 
 <!-- Step 1: call the MCP prediction tool. -->
-<!-- TEAM: replace run_prediction with the real MCP tool name. -->
 
 Call the `tabai-mcp` prediction tool with:
 
-- `scenarioConfigName`: `used-cars-sc-<alias>`
+- `scenarioConfigName`: `used-cars-sc-<alias>` <!-- Use `mock-scenario-config` for this exercise -->
 - `modelName`: `sap-rpt-1.6`
 - `predictionConfig.targetColumns`:
   ```json

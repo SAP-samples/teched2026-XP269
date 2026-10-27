@@ -5,7 +5,13 @@ In this exercise, you will use Joule Studio 2.0 to see how you can build and fur
 ## Signing In
 1. Open **Joule Studio**: [`here`](https://747401964.eu10.sapdas.cloud.sap/new/build)
 2. Sign in with the user account that comes with your provided laptop.
-3. Confirm that the MCP and base skills are available.
+3. Make sure you are on the **Develop** tab.
+4. You should see a panel of Solutions and the `TabAI TechEd Demo` agent is within that list. Click on the 3-dots icon and click **Download ZIP**. 
+5. Click on down icon on the right of the **New** button.
+6. Select **Upload Solution** and choose the downloaded zip file. 
+7. You would see a warning message. Click **Copy** to proceed.
+8. You should see that this opens up a new agent solution, from your uploaded zip file. 
+9. Now confirm that the MCP and base skills are available.
 
 The team has already deployed the **MCP server** (in Cloud Foundry) and the **base skills**, and connected them to Joule Studio. Do a quick check to ensure that you can see/use them. 
 
